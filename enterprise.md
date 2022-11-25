@@ -11,7 +11,8 @@ This section will go over the possible document elements.
 ## Callouts
 
 !> **Tip**
-Hello world!
+
+!> Hello world!
 Multiline test!
 
 ?> **Warning** Inline Test
