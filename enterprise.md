@@ -1,3 +1,8 @@
+@meta
+title: Enterprise
+description: Hello **world**!
+@end
+
 ---
 title: Enterprise
 description: Hello **world**!
