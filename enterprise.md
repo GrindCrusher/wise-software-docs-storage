@@ -15,3 +15,7 @@ This section will go over the possible document elements.
 ?> Dear god.
 
 x> There's more.
+
+# Fancy Page
+
+Navigation test: [click here](/enterprise/sample1/test)
