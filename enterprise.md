@@ -15,15 +15,10 @@ This section will go over the possible document elements.
 
 ## Callouts
 
-> Note: Hello
+!> **Tip**
+!> Hello world!
+!> Multiline test!
 
-> **Note** Hello
+?> **Warning** Inline Test
 
-> Note:
-> Hello
-
-> **Note**
-> Hello
-
-> hi
-> bye
+x> Example
