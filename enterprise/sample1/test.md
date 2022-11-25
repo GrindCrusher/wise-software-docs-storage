@@ -1,8 +1,3 @@
----
-title: Test Article
-description: This is a **sample** document.
----
-
 # Video Tutorial
 
 Include a Rick-roll here.
