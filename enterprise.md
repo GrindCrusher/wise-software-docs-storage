@@ -10,10 +10,8 @@ This section will go over the possible document elements.
 
 ## Callouts
 
-!> **Tip**
-
-!> Hello world!
-Multiline test!
+!> This is a tip message.<br/>
+Hello world.
 
 ?> **Warning** Inline Test
 
