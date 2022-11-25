@@ -1,0 +1,25 @@
+- displayName: Enterprise
+  description: A complete package that handles your route, scheduling, recurring billing, and customer management.
+  displayIcon: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png
+  pages:
+    Sample 1:
+    - Page 1.1
+    - Page 1.2
+    - Page 1.3
+    
+    Sample 2:
+    - Page 2.1
+    - Page 2.2
+    - Page 2.3
+    
+    Sample 3:
+    - Page 3.1
+    - Page 3.2
+    - Page 3.3
+  
+- displayName: Retail
+  description: Modern register software designed to make retailers more efficient.
+  displayIcon: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png
+  pages:
+    Test:
+      - Hello
