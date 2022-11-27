@@ -50,7 +50,7 @@ Images are done using a special notation, similar to a link: `![name](link)`.
 
 x> And danger blocks with `x>`
 
-We also allow embedding YouTube videos by using `@[ID]` format (like `@[dQw4w9WgXcQ]`):
+We also allow embedding YouTube videos by using `@youtube[ID]` format (like `@youtube[dQw4w9WgXcQ]`):
 
-@[dQw4w9WgXcQ]
+@youtube[dQw4w9WgXcQ]
 
