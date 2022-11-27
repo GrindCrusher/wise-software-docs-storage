@@ -2,6 +2,9 @@
   description: A complete package that handles your route, scheduling, recurring billing, and customer management.
   displayIcon: https://www.wisesoftwareinc.com/wp-content/uploads/2021/07/Enterprise-e1626300075144-150x150.png
   pages:
+    Markup:
+    - Normal Text
+  
     Sample 1:
     - Test
   
