@@ -1,16 +1,7 @@
 - displayName: Enterprise
   description: A complete package that handles your route, scheduling, recurring billing, and customer management.
   displayIcon: https://www.wisesoftwareinc.com/wp-content/uploads/2021/07/Enterprise-e1626300075144-150x150.png
-  pages:
-    Markup:
-    - Normal Text
-  
-    Sample 1:
-    - Test
   
 - displayName: Retail
   description: Modern register software designed to make retailers more efficient.
   displayIcon: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png
-  pages:
-    Test:
-      - Hello
