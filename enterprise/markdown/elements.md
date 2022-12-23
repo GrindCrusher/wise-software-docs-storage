@@ -20,6 +20,10 @@ This paragraph is normal text. A paragraph that follows the very first Heading 1
 
 ###### Heading 6
 
+# Text Formatting.
+
+Text can be *italicized*, **bolded**, or ***both***. ~~Strikethrough~~ supported, and so is _underlining_.
+
 # Links
 
 [This](https://google.com/) is a link.
@@ -42,6 +46,16 @@ This paragraph is normal text. A paragraph that follows the very first Heading 1
 - [ ] This is a checklist.
 - [ ] Checklists are shown with checkboxes (that cannot be edited by the client).
 - [x] These checkboxes may be checked.
+
+# Inline Code
+
+This is `inline code`.
+
+# Code Blocks
+
+```
+This is inside a code block. If you need syntax highlighting included, please ask me.
+```
 
 # Images
 
