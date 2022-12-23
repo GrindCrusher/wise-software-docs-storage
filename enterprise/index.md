@@ -10,7 +10,7 @@ I've built a documentation website for you to use to document Pool Program 9, an
 - [x] ***Extended* Markdown support.** There's already a few elements that are custom made, which you can see over on the [Custom Elements](/enterprise/markdown/custom-elements) page. You can directly embed YouTube videos (for stuff like video tutorials), or have callouts that display important information. 
 - [x] **Extensible.** Being a custom site, I can add anything needed. Custom elements, etc.
 - [x] **100% free.** All content is stored on a GitHub repository, while the website is hosted on the Cloud over at [Vercel](https://vercel.com/) for free.
-- [x] **Super search support** (TBA)**.** I plan to add [Algolia](https://algolia.con) Search, which is free for up to about 10,000 searches a month. 
+- [x] **Super search support** (TBA)**.** I plan to add [Algolia](https://algolia.com) Search, which is free for up to about 10,000 searches a month. 
 - [x] **Themes.** You can switch between System, Dark, and Light theme. Additionally, you can choose between a Serif or a Sans-Serif font.
 - [x] **Mobile support.** Mobile is supported! Try this on your phone if you're not already on it.
 
