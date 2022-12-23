@@ -22,7 +22,7 @@ This paragraph is normal text. A paragraph that follows the very first Heading 1
 
 # Text Formatting.
 
-Text can be *italicized*, **bolded**, or ***both***. ~~Strikethrough~~ supported, and so is _underlining_.
+Text can be *italicized*, **bolded**, or ***both***. ~~Strikethrough~~ is also supported.
 
 # Links
 
