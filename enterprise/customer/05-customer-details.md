@@ -4,11 +4,11 @@ This is a brief description about this document.
 
 # Navigating to Customer Details
 
-![](06-01-navigating.png)
+![06-01-navigating](https://user-images.githubusercontent.com/41650610/222007975-f1a57b76-8594-46bd-8599-a549ffec6cdc.png)
 
 Selecting Customers from the main menu on the left of the dashboard will take you to the customer area.
 
-![](03-02-customer-details.png)
+![03-02-customer-details](https://user-images.githubusercontent.com/41650610/222008038-30bc163f-0f28-4749-bb90-0607bec009f5.png)
 
 The Customer area is where you can add, edit, and delete customer information.
 
