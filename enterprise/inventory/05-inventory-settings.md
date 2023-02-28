@@ -4,7 +4,7 @@ A brief description about this document.
 
 @youtube[dQw4w9WgXcQ]
 
-![](05-01-inventory-settings.png)
+![05-01-inventory-settings](https://user-images.githubusercontent.com/41650610/222008217-c2be6c15-2444-49e8-a38d-05b52192bbbd.png)
 
 
 # Transcript
@@ -20,7 +20,7 @@ In this video we will be covering Inventory Settings including
 
 In the Inventory screen, right click to open the app bar on the bottom and then click on settings.
 
-![](05-02-appbar.png)
+![05-02-appbar](https://user-images.githubusercontent.com/41650610/222008229-29b1ffda-b9fa-4258-b93b-1570e62c6eac.png)
 
 
 ## Units of Measure
