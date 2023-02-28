@@ -4,11 +4,11 @@ A brief description about this document.
 
 # Navigating to Inventory
 
-![](06-01-navigating.png)
+![06-01-navigating](https://user-images.githubusercontent.com/41650610/222008120-5c4a80f3-cebf-4834-9429-e14083962ccb.png)
 
 Selecting Inventory from the main menu on the left will take you to the inventory area. This area is where we can add, edit, and track stock on the items we buy and sell
 
-![](06-02-inventory.png)
+![06-02-inventory](https://user-images.githubusercontent.com/41650610/222008127-8343cee7-78fb-46a1-ac0c-d048ae050783.png)
 
 
 # Dashboard
@@ -17,7 +17,7 @@ When clicking on Inventory for the first time, a search box will appear. Type in
 
 You can also access the search by right clicking to bring up the app bar at the bottom of the screen and selecting Search.
 
-![](06-03-appbar.png)
+![06-03-appbar](https://user-images.githubusercontent.com/41650610/222008136-c4246e26-828d-415c-ac2b-ba7b66f3e452.png)
 
 You can search by a product’s name, SKU category and even description. Type what you are searching for into the text box at the top of the search screen and press Tab or Enter on your keyboard. Results will display with the default picture for the product, Name and SKU, manufacture product number, manufacture, category, available stock counts and default price. Expanding a result with the right pointing arrow icon will display available counts at each storage location. Click on a product to select it or click the Close button to return to the inventory screen.
 
