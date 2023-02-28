@@ -5,7 +5,7 @@ This is a brief description about this document.
 
 # Navigating to Billing
 
-![](11-01-navigation.png)
+![11-01-navigation](https://user-images.githubusercontent.com/41650610/222004963-dc0d56fc-0eab-4c70-bdec-89ad7637241f.png)
 
 Selecting Billing from the main menu on the left of the dashboard will take you to the billing area.
 
@@ -14,7 +14,7 @@ The Billing area is where you can make invoices, process payments, give credits,
 
 # Dashboard
 
-![](i11-02-dashboard.png)
+![11-02-dashboard](https://user-images.githubusercontent.com/41650610/222004987-80ce9bd2-0a32-46d6-895c-4e257ce23c49.png)
 
 The Billing area dashboard is divided into three main sections.
 
@@ -29,7 +29,7 @@ Across the top of the screen (except for the dashboard) you'll find tabs for the
 
 # Invoice
 
-![](11-03-invoice.png)
+![11-03-invoice](https://user-images.githubusercontent.com/41650610/222005011-f9fb9524-3b80-4c95-b095-b14c2bd75a87.png)
 
 To start a new invoice, first click on the invoice tab and then click the plus icon at the top right of the screen.
 
@@ -66,7 +66,7 @@ Once the details of the invoice are complete, we can print the invoice from here
     
 # Payment
 
-![](11-04-payment.png)
+![11-04-payment](https://user-images.githubusercontent.com/41650610/222005019-433bca68-3fcc-431b-8eb1-7c6f90eaf081.png)
 
 Here is where you'll process customer payments. From the dashboard select payment.
 
@@ -125,7 +125,7 @@ Once all the details of our credit card payment are filled in, we click the chec
 
 # Credit
 
-![](11-05-credit.png)
+![11-05-credit](https://user-images.githubusercontent.com/41650610/222005064-e833f6b1-45ca-45d9-87e0-4f17a0b5c14f.png)
 
 This is where you'll give customers credits or process refunds.
 
@@ -136,14 +136,14 @@ If you would like to refund money click on the line with amount you would like a
 
 # Estimate
 
-![](11-06-estimate.png)
+![11-06-estimate](https://user-images.githubusercontent.com/41650610/222005083-9bad6725-928f-4671-9b16-000631518958.png)
 
 This estimate tab is where you'll provide customers quotes for services or items. This works the same as an invoice except it will be saved in the invoice area and inventory will not be deleted from inventory until you create an invoice from this estimate. As always, fill in the description and provide a dollar amount. You may email the estimate to your customer by clicking the email button. Once an estimate is accepted you can create an invoice by clicking on the double arrows at the top right of the screen. The estimate will not be deleted. It can only be deleted by selecting the garbage can at the upper right of the screen.
 
 
 # Statement
 
-![](11-07-statement.png)
+![11-07-statement](https://user-images.githubusercontent.com/41650610/222005103-2905dd0e-4e14-4b31-bda2-f25299fce45d.png)
 
 The statement tab is where you can email or print customer statements. You can also print or email a statement/payment history. The start from and end on is the date range you will be shown on the statement you are going to print or email. You can show more months by changing these dates. When you first click on statement the dates will be set for the current month. But you can set the to show 2 month or even a year of data. Click on the calendar icon to select a date range. The printed date is what will be printed at the top of the statement. Footer note will be added to the statement after all statement lines and totals have printed.
 
@@ -154,7 +154,7 @@ After you have made all of your choices click on the email icon or the print ico
 
 # Recurring
 
-![](11-08-recurring.png)
+![11-08-recurring](https://user-images.githubusercontent.com/41650610/222005125-2a82e159-aa18-4364-a30d-86b4d3952d7e.png)
 
 This is where you can set up recurring payments for customers.
 
@@ -175,7 +175,7 @@ To setup a recurring charge group click on the plus sign in the upper right corn
     
 # Vault
 
-![](11-09-vault.png)
+![11-09-vault](https://user-images.githubusercontent.com/41650610/222005152-00d6b137-35a8-4a2c-bd59-2ac3ff89b754.png)
 
 This is where you may store customer cards for future use.
 
@@ -184,6 +184,6 @@ If you have recurring payments enabled, you can set the card to be used by click
 
 # Consumables
 
-![](11-10-consumables.png)
+![11-10-consumables](https://user-images.githubusercontent.com/41650610/222005160-6fb238d9-3472-46b7-bcd4-d69264615e2d.png)
 
 This is where you can add frequently used items like chlorine tabs to invoices.
