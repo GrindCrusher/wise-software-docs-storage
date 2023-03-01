@@ -2,3 +2,7 @@
 
 Learn how to use Wise Software products to manage your service business.
 
+# Additional Resources
+
+
+
