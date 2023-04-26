@@ -8,7 +8,7 @@ The equipment type tab is where you can enter you list of equipment categories. 
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_2.37fe9231.png)
 
-You can add a new item to the list by clicking the Click here to add new item. You can delete an item by clicking on the right side of the line and the press the delete key on your keyboard.
+You can add a new item to the list by clicking the Click here to add new item. You can delete an item by clicking on the trash can. Keep in mind that if this equipment type is associated to a customer it may not be delete.
 
 # CUSTOMER TYPE
 
@@ -16,7 +16,7 @@ The customer type tab is where you can enter you list of customer categories. Th
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_3.e29d1a6f.png)
 
-You can add a new item to the list by clicking the Click here to add new item. You can delete an item by clicking on the right side of the line and the press the delete key on your keyboard. This list can be used like a filter when you print or email bills. It can also be used in some reports to filter the report.
+You can add a new item to the list by clicking the Click here to add new item. You can delete an item by clicking on trash can. Keep in mind that if this customer type is associated to a customer it may not be delete.. This list can be used to filter when in reports, printing or emailing.
 
 # REWARDS
 
