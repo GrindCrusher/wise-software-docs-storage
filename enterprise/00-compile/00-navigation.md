@@ -79,5 +79,3 @@ Right clicking your mouse will bring up the App Bar at the bottom of the window
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_11.9e3b874f.png)
 
 The App Bar gives access to section specific settings and features
-
-Thank you for watching this training video. I hope it will help you continue to get the most out of your Enterprise software.
