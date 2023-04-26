@@ -1,4 +1,4 @@
-# Wise Software - Enterprise technical documentation In this section, we will cover Navigating the program.
+# Wise Software - Enterprise technical documentation In this section, we will cover navigating the program.
 
 Navigation and Search
 
@@ -18,7 +18,7 @@ In the top right of most screens you will find Quick Action Buttons
 
 This is where a user has access to screen specific functions such as Add, Delete, and Print.
 
-If you are in the Activities Dashboard the user can quickly Log Out, access Local Settings, or Change their Password.
+If you are in the Activities Dashboard the user can quickly Log Out, access Local Settings, personel alerts or Change their Password.
 
 # Navigation Bar
 
