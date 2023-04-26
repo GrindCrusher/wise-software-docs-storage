@@ -1,4 +1,4 @@
-# Hello and welcome to the Wise Software Enterprise training video. In this session, we will cover Navigating the program.
+# Wise Software - Enterprise technical documentation In this section, we will cover Navigating the program.
 
 Navigation and Search
 
