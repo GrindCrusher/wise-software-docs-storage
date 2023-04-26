@@ -8,7 +8,7 @@ The equipment type tab is where you can enter you list of equipment categories. 
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_2.37fe9231.png)
 
-You can add a new item to the list by clicking the Click here to add new item. You can delete an item by clicking on the trash can. Keep in mind that if this equipment type is associated to a customer it may not be delete.
+You can add a new item to the list by clicking the Click here to add new item. You can delete an item by clicking on the garbage can. Keep in mind that if this equipment type is associated to a customer it may not be delete.
 
 # CUSTOMER TYPE
 
@@ -16,7 +16,7 @@ The customer type tab is where you can enter you list of customer categories. Th
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_3.e29d1a6f.png)
 
-You can add a new item to the list by clicking the Click here to add new item. You can delete an item by clicking on trash can. Keep in mind that if this customer type is associated to a customer it may not be delete.. This list can be used to filter when in reports, printing or emailing.
+You can add a new item to the list by clicking the Click here to add new item. You can delete an item by clicking on garbage can. Keep in mind that if this customer type is associated to a customer it may not be delete. This list can be used to filter when in reports, printing or emailing.
 
 # REWARDS
 
@@ -24,7 +24,7 @@ The rewards tab is where you can set different categories of rewards for your cu
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_4.8039c637.png)
 
-You can enter the name, description, and multiplier. The multiplier will multiply points give to an item in inventory. To delete an item, first select the item by clicking on it and then click on the garbage can in the upper right hand corner of the screen. The rewards can be set in the customer account tab.
+You can enter the name, description, and multiplier. The multiplier will multiply points given to an item in inventory. For example if an inventory item is assigned 1 point and the multiplier is set to 10, then everytime that item is sold the customer will receive 10 points. This allows great flexabiltiy in the reward programs you can offer. To delete an item, first select the item by clicking on it and then click on the garbage can in the upper right hand corner of the screen. The rewards can be set in the customer account tab.
 
 # CHECKLIST
 
