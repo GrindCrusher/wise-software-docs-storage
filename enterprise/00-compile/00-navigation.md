@@ -1,12 +1,12 @@
-# Wise Software - Enterprise technical documentation In this section, we will cover navigating the program.
+# Wise Software - Enterprise tutorial. In this section, we will cover navigating and searching the program.
 
 Navigation and Search
 
 # Dashboard
 
-– When first logging in the user is greeted with the User Dashboard
+– When first logging in the you will be greeted with the Employee Dashboard
 
-This dashboard gives quick access to employee specific jobs for the day including Service Stop, Work Orders, Reminders and Tasks.
+This dashboard gives quick access to your specific jobs for the day including Service Stop, Work Orders, Reminders and Tasks.
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_1.f5f50bdf.png)
 
@@ -18,17 +18,17 @@ In the top right of most screens you will find Quick Action Buttons
 
 This is where a user has access to screen specific functions such as Add, Delete, and Print.
 
-If you are in the Activities Dashboard the user can quickly Log Out, access Local Settings, personel alerts or Change their Password.
+If you are in the Employee Dashboard you can quickly Log Out, access Local Settings, Personal Alerts or Change their Password.
 
 # Navigation Bar
 
-Off to the left we have the Navigation bar. This always available menu allows a user to jump to any section in the program.
+Off to the left we have the Navigation bar. This always available menu allows a you to jump to any section in the program.
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_3.dc5c4c19.png)
 
 Hover over any of the icons on the Navigation bar to display the name of that section.
 
-Use the top left icon to toggle a fully expanded view of the menu
+Use the top left icon (Hambuger Button) to toggle a fully expanded view of the menu
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_4.df965977.png)
 
