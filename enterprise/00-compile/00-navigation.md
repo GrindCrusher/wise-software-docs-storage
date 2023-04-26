@@ -72,13 +72,9 @@ Similar powerful searches are available throughout the program including the Emp
 
 # App Bar
 
-–
-
 App bars are located on the bottom of the program.
 
-# Right clicking
-
-your mouse will bring up the App Bar at the bottom of the window
+Right clicking your mouse will bring up the App Bar at the bottom of the window
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_11.9e3b874f.png)
 
