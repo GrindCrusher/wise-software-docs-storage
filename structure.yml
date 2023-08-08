@@ -4,13 +4,13 @@
   
 - displayName: Mobile
   description: Documentation on iOS and Android devices.
-  displayIcon: https://www.wisesoftwareinc.com/wp-content/uploads/2021/07/Enterprise-e1626300075144-150x150.png
+  displayIcon: https://cdn.realsgii2.dev/wise-software-docs-static/wiseMobile.png
   
 - displayName: Retail
   description: Documentation on the point-of-sale for Windows, iOS and Android.
-  displayIcon: https://www.wisesoftwareinc.com/wp-content/uploads/2021/07/Enterprise-e1626300075144-150x150.png
+  displayIcon: https://cdn.realsgii2.dev/wise-software-docs-static/retail.png
   
 - displayName: Updates
   description: What's new and changed in the Wise Software eco-system.
-  displayIcon: https://www.wisesoftwareinc.com/wp-content/uploads/2021/07/Enterprise-e1626300075144-150x150.png
+  displayIcon: https://cdn.realsgii2.dev/wise-software-docs-static/updates.png
   
