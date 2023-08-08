@@ -53,7 +53,6 @@ Clicking the location note will bring up the edit screen for that locations note
 @img-grid
 ![](https://wiselibrary.blob.core.windows.net/docs/Mobile/LocationNote.png)
 ![](https://wiselibrary.blob.core.windows.net/docs/Mobile/LocationPopup.png)
-@end-grid
 
 
 
