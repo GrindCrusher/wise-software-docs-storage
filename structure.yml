@@ -1,16 +1,16 @@
 - displayName: Enterprise
-  description: A complete package that handles your route, scheduling, recurring billing, and customer management.
+  description: Documentation on the Windows desktop app.
   displayIcon: https://www.wisesoftwareinc.com/wp-content/uploads/2021/07/Enterprise-e1626300075144-150x150.png
   
-- displayName: Enterprise Mobile
-  description: A complete package that handles your route, scheduling, recurring billing, and customer management.
+- displayName: Mobile
+  description: Documentation on iOS and Android devices.
   displayIcon: https://www.wisesoftwareinc.com/wp-content/uploads/2021/07/Enterprise-e1626300075144-150x150.png
   
 - displayName: Retail
-  description: Modern register software designed to make retailers more efficient.
+  description: Documentation on the point-of-sale for Windows, iOS and Android.
   displayIcon: https://www.wisesoftwareinc.com/wp-content/uploads/2021/07/Enterprise-e1626300075144-150x150.png
   
 - displayName: Updates
-  description: A list of updates for all of our products.
+  description: What's new and changed in the Wise Software eco-system.
   displayIcon: https://www.wisesoftwareinc.com/wp-content/uploads/2021/07/Enterprise-e1626300075144-150x150.png
   
