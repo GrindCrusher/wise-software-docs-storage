@@ -28,9 +28,10 @@ Across the bottom of the screen you'll find tabs for the customer whose name is 
   ![](https://wiselibrary.blob.core.windows.net/docs/Mobile/CustomerDetails3.png)
 
 Clicking on the house icon will allow you to route from your current location to the customer location
- ![](https://wiselibrary.blob.core.windows.net/docs/Mobile/CustomerDetails2.png)
 
- ![](https://wiselibrary.blob.core.windows.net/docs/Mobile/GoogleMap.png)
+![](https://wiselibrary.blob.core.windows.net/docs/Mobile/CustomerDetails2.png)
+
+![](https://wiselibrary.blob.core.windows.net/docs/Mobile/GoogleMap.png)
 
 Clicking the location note will bring up the edit screen for that locations note.
 
