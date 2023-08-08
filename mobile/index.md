@@ -1,4 +1,9 @@
+# Wise Software - Enterprise tutorial. In this section, we will cover navigating and searching the program.
 
-# Enterprise Mobile Page
+Navigation and Search
 
-Modify me!
+# Dashboard
+
+– When first logging in the you will be greeted with the Employee Dashboard
+
+This dashboard gives quick access to your specific jobs for the day including Service Stop, Work Orders, Reminders and Tasks.
