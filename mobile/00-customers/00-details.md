@@ -19,14 +19,14 @@ From here you can edit account information, locations, contacts, equipment, note
 Across the bottom of the screen you'll find tabs for the customer whose name is at the top of the screen. This will gave access to billing, equipment, notes, service sheets & work orders appicable permissions do apply here. 
 
 
-![](https://wiselibrary.blob.core.windows.net/docs/Mobile/CustomerDetails-Tabs.png)
+![](https://wiselibrary.blob.core.windows.net/docs/Mobile/CustomerTabs.png)
 
 
  # Quick Action Buttons
  At the top right there will be a plus and a search icon. The plus is for adding new information, the search is for looking for a new customer.
 
 
- ![](https://wiselibrary.blob.core.windows.net/docs/Mobile/CustomerDetails3.png)
+ ![](https://wiselibrary.blob.core.windows.net/docs/Mobile/CustomerActions.png)
  
 # Account Details
  The account details contains balance, credit, account number & customer type. The address is selctable in the dropdown, changing the address will change will contacts are currently displayed.
