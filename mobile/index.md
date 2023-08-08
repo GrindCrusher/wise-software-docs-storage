@@ -6,4 +6,4 @@ Navigation and Search
 
 – When first logging in the you will be greeted with the Employee Dashboard
 
-This dashboard gives quick access to your specific jobs for the day including Service Stop, Work Orders, Reminders and Tasks.
+This dashboard gives quick access to how many Service Stops, Work Orders, Reminders and Tasks are completed and need to be completed. It will also show the next 3 upcoming activities.
