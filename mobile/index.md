@@ -13,6 +13,7 @@ This dashboard gives quick access to how many Service Stops, Work Orders, Remind
 # Navigation Bar
 
 If running on a tablet the nvigation bar will already be displayed, if on a smaller device it may accessed by clicking the top left icon (Hambuger Button) or by swiping right from the top portion of the app.
+
 ![](https://wiselibrary.blob.core.windows.net/docs/Mobile/dashboard-menu.png)
 
 ![](https://wiselibrary.blob.core.windows.net/docs/Mobile/menu.png)
