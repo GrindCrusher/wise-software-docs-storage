@@ -328,8 +328,6 @@ If you are first setting up recurring payments you will need to setup charge gro
 
 A charge group is where a group of customers can be assigned a monthly charge.
 
-
-
 To create a charge groups you first need a template. This is set up in inventory.
 
 
@@ -389,102 +387,101 @@ then select settings on the bottom of the screen.
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_43.44007119.png)
 
 
+Then select Charges at the top of the screen. From this area you can set up groups for your recurring services.
 
-    Then select Charges at the top of the screen. From this area you can set up groups for your recurring services.
 
 
+![](https://cdn.realsgii2.dev/wise-software-docs/image_44.c970fade.png)
 
-    ![](https://cdn.realsgii2.dev/wise-software-docs/image_44.c970fade.png)
+To set up a recurring charge group click on the plus sign in the upper right corner.
 
-    To set up a recurring charge group click on the plus sign in the upper right corner.
 
 
+![](https://cdn.realsgii2.dev/wise-software-docs/image_45.e4e5e514.png)
 
-    ![](https://cdn.realsgii2.dev/wise-software-docs/image_45.e4e5e514.png)
 
 
+Next, you will select a service (Monthly Service) and click on next at the bottom.
 
-    Next, you will select a service (Monthly Service) and click on next at the bottom.
 
 
+![](https://cdn.realsgii2.dev/wise-software-docs/image_46.48168a20.png)
 
-    ![](https://cdn.realsgii2.dev/wise-software-docs/image_46.48168a20.png)
 
 
+You will now see the recurring frequency box. First set the type of billing in the upper right hand corner of the box. Monthly, Quartey, Yearly, 4^th^ week, 2^nd^ week.
 
-    You will now see the recurring frequency box. First set the type of billing in the upper right hand corner of the box. Monthly, Quartey, Yearly, 4^th^ week, 2^nd^ week.
 
 
+![](https://cdn.realsgii2.dev/wise-software-docs/image_47.1cbc6cef.png)
 
-    ![](https://cdn.realsgii2.dev/wise-software-docs/image_47.1cbc6cef.png)
 
 
+Now set the label. It will say "Do not add month to line item" select Add month to line before item from the drop down.
 
-    Now set the label. It will say "Do not add month to line item" select Add month to line before item from the drop down.
 
 
+![](https://cdn.realsgii2.dev/wise-software-docs/image_48.6173c452.png)
 
-    ![](https://cdn.realsgii2.dev/wise-software-docs/image_48.6173c452.png)
 
 
+Now Click on Enter quick charge amount and enter your recurring fee and enter amount. 100, 150, 200 whatever you are charging for this monthly service. Then click on next at the bottom.
 
-    Now Click on Enter quick charge amount and enter your recurring fee and enter amount. 100, 150, 200 whatever you are charging for this monthly service. Then click on next at the bottom.
 
 
+![](https://cdn.realsgii2.dev/wise-software-docs/image_49.959c1c47.png)
 
-    ![](https://cdn.realsgii2.dev/wise-software-docs/image_49.959c1c47.png)
 
 
+At the top right hand corner enter a Group name like Monthly Service 150 with the 150 being the amount for this service.
 
-    At the top right hand corner enter a Group name like Monthly Service 150 with the 150 being the amount for this service.
 
 
+![](https://cdn.realsgii2.dev/wise-software-docs/image_50.f2a096dc.png)
 
-    ![](https://cdn.realsgii2.dev/wise-software-docs/image_50.f2a096dc.png)
 
 
+Then select the day of the month you want the bill to be made. After that, select the message that should be printed on the bottom of each invoice or statement. On the bottom right corner click on Finish.
 
-    Then select the day of the month you want the bill to be made. After that, select the message that should be printed on the bottom of each invoice or statement. On the bottom right corner click on Finish.
 
 
+![](https://cdn.realsgii2.dev/wise-software-docs/image_51.56b6575f.png)
 
-    ![](https://cdn.realsgii2.dev/wise-software-docs/image_51.56b6575f.png)
 
 
+Click on the billing icon on the left side of the screen.
 
-    Click on the billing icon on the left side of the screen.
 
 
+![](https://cdn.realsgii2.dev/wise-software-docs/image_52.6bd01cb2.png)
 
-    ![](https://cdn.realsgii2.dev/wise-software-docs/image_52.6bd01cb2.png)
 
 
+Now click on the recurring tab at the top of the screen.
 
-    Now click on the recurring tab at the top of the screen.
 
 
+![](https://cdn.realsgii2.dev/wise-software-docs/image_53.010195c6.png)
 
-    ![](https://cdn.realsgii2.dev/wise-software-docs/image_53.010195c6.png)
 
 
+You will see your new Group for the charges.
 
-    You will see your new Group for the charges.
 
 
+![](https://cdn.realsgii2.dev/wise-software-docs/image_54.8a914e6f.png)
 
-    ![](https://cdn.realsgii2.dev/wise-software-docs/image_54.8a914e6f.png)
 
 
+To add this Group to a customer address, just drag the Group to the address on the right of the screen. Now set the start date the day the billing should start.
 
-    To add this Group to a customer address, just drag the Group to the address on the right of the screen. Now set the start date the day the billing should start.
 
 
+![](https://cdn.realsgii2.dev/wise-software-docs/image_55.8f3fdff2.png)
 
-    ![](https://cdn.realsgii2.dev/wise-software-docs/image_55.8f3fdff2.png)
 
 
-
-    Make as many groups as you need to cover the different recurring charges.
+Make as many groups as you need to cover the different recurring charges.
 
 # VAULT
 
