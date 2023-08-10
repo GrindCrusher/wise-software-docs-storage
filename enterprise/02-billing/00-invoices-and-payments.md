@@ -31,29 +31,26 @@ The Billing area dashboard is divided into three main sections.
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_3.05a84d54.png)
 
-    To start a new invoice, first click on the invoice tab and then click the plus icon at the top right of the screen.
+To start a new invoice, first click on the invoice tab and then click the plus icon at the top right of the screen.
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_4.f5273df2.png)
 
-    The Billing and Service address will automatically fill in with the default address of the account. Use the pull down under Billing Address to change the address this invoice will be printed or emailed to. Use the pull down under Service Address to change the address where the service on this invoice was provided.
+The Billing and Service address will automatically fill in with the default address of the account. Use the pull down under Billing Address to change the address this invoice will be printed or emailed to. Use the pull down under Service Address to change the address where the service on this invoice was provided.
 
 
 
-    ![](https://cdn.realsgii2.dev/wise-software-docs/image_5.3d0fac31.png)
+![](https://cdn.realsgii2.dev/wise-software-docs/image_5.3d0fac31.png)
 
 
 
 
-
-    Under Details, the Status shows New until the invoice is saved for the first time and the paid status of the invoice thereafter. Unpaid, Partial, or Paid.
-
+Under Details, the Status shows New until the invoice is saved for the first time and the paid status of the invoice thereafter. Unpaid, Partial, or Paid.
 
 
-    The billing type of the customer is shown allowing us to see how this customer prefers receiving invoices at a quick glance in the invoice details.
+The billing type of the customer is shown allowing us to see how this customer prefers receiving invoices at a quick glance in the invoice details.
 
 
-
-    If an invoice is generated from a Work Order or tied to a Purchase order, they linked order number will display.
+If an invoice is generated from a Work Order or tied to a Purchase order, they linked order number will display.
 
 
 
