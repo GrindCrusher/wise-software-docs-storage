@@ -33,6 +33,33 @@ Clicking on the add button will bring up a pop up with a couple of choices
 ![](https://wiselibrary.blob.core.windows.net/docs/Mobile/LineItemAdd.png)
 
 
+Clicking on "add item" will prompt for an inventory search. Make note that your products and services currently need to be set up on the ![desktop](https://docs.wisesoftwareinc.com/enterprise/inventory/inventory-items).
+
+![](https://wiselibrary.blob.core.windows.net/docs/Mobile/InventorySearch.png)
+
+![](https://wiselibrary.blob.core.windows.net/docs/Mobile/InventoryResults.png)
+
+Select the product or service you would like to add to the invoice. After selecting the item the details will popup so things like price, quantity and tax can be edited.
+
+![](https://wiselibrary.blob.core.windows.net/docs/Mobile/AddInventory.png)
+
+To save the item click on the save button.
+
+![](https://wiselibrary.blob.core.windows.net/docs/Mobile/SaveButton.png)
+
+# Deleting a line item
+If the invoice has no payment applied to it it may be editied. Left swiping an item will display the delete button.
+
+![](https://wiselibrary.blob.core.windows.net/docs/Mobile/DeleteLineItem.png)
+
+# Add a payment
+Currently not available
+
+# PayNow
+
+Clicking on Pay Now will send an email notification to the customer with a link to pay online via credit card or ACH for the current balance. A Global Payments processing account needs to active for this functionality.
+
+
 
 
 
