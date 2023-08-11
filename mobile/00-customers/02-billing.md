@@ -61,6 +61,8 @@ Currently not available
 
 Clicking on Pay Now will send an email notification to the customer with a link to pay online via credit card or ACH for the current balance. A Global Payments processing account needs to active for this functionality.
 
+![](https://wiselibrary.blob.core.windows.net/docs/Mobile/PayNowMessage.png)
+
 
 
 
