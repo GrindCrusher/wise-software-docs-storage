@@ -8,13 +8,5 @@
   displayIcon: https://cdn.realsgii2.dev/wise-software-docs-static/wiseMobile.png
   color: "#6048da"
   
-- displayName: Retail
-  description: Documentation on the point-of-sale for Windows, iOS and Android.
-  displayIcon: https://cdn.realsgii2.dev/wise-software-docs-static/retail.png
-  color: "#ea4335"
-  
-- displayName: Updates
-  description: "What's new and changed in the Wise Software eco-system."
-  displayIcon: https://cdn.realsgii2.dev/wise-software-docs-static/updates.png
-  color: "#61b89d"
+
   
