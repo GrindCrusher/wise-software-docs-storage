@@ -47,6 +47,8 @@ To save the item click on the save button.
 
 ![](https://wiselibrary.blob.core.windows.net/docs/Mobile/SaveButton.png)
 
+* Note that if you have Low Stock alerts enabled you will receive an email alert if the item type is set to stock and meets the low stock requirements.
+   
 # Deleting a line item
 If the invoice has no payment applied to it it may be editied. Left swiping an item will display the delete button.
 
