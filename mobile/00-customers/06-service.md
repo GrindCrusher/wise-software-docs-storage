@@ -5,13 +5,13 @@ All the service/ repairs done relating to the customer will be located here from
 
 The status of each is indicated by the colored dots:
 
-@status[not-started]
-@status[in-progress]
-@status[completed]
-@status[overdue]
-@status[cancelled]
-@status[to-do]
-@status[deferred]
+`@status[not-started]`
+`@status[in-progress]`
+`@status[completed]`
+`@status[overdue]`
+`@status[cancelled]`
+`@status[to-do]`
+`@status[deferred]`
 
 Service stops will only have 3 statuses:
 - Not started
