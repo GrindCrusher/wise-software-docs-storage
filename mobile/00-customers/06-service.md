@@ -22,7 +22,9 @@ The status of each is indicated by the colored dots:
 Service stops will only have 3 statuses:
 
 `@status[not-started]` Not started
+
 `@status[in-progress]` In Progress
+
 `@status[completed]` Completed
  
  # Deleting
