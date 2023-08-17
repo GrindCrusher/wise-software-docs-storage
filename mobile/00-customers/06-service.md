@@ -4,18 +4,19 @@ All the service/ repairs done relating to the customer will be located here from
 ![](https://wiselibrary.blob.core.windows.net/docs/Mobile/ServiceHistory.png)
 
 The status of each is indicated by the colored dots:
-- Not Started
-- In Progress
-- Completed
-- Overdue
-- Canceled
-- To Do
-- Deffered
 
-  Service stops will only have 3 statuses:
-  - Not started
-  - Inprogress
-  - Completed
+@status[not-started]
+@status[in-progress]
+@status[completed]
+@status[overdue]
+@status[cancelled]
+@status[to-do]
+@status[deferred]
+
+Service stops will only have 3 statuses:
+- Not started
+- Inprogress
+- Completed
  
-    # Deleting
-    Swiping to the right will bring up the delete option
+ # Deleting
+Swiping to the right will bring up the delete option
