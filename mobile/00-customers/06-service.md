@@ -5,7 +5,7 @@ All the service/ repairs done relating to the customer will be located here from
 
 The status of each is indicated by the colored dots:
 
-'@status[not-started]'
+@status[not-started]
 
 @status[in-progress]
 
