@@ -1,19 +1,19 @@
 # My Tasks
 
 **DotTest**
-@status[not-started] test
+`@status[not-started]` test
 
-@status[in-progress] test
+`@status[in-progress]` test
 
-@status[completed] test
+`@status[completed]` test
 
-@status[overdue] test
+`@status[overdue]` test
 
-@status[cancelled] test
+`@status[cancelled]` test
 
-@status[to-do] test
+`@status[to-do]` test
 
-@status[deferred] test
+`@status[deferred]` test
 
 The service view is where you can see all the work orders and service stops that are assigned to you for the selected day (by default it be today).
 
