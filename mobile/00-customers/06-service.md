@@ -20,9 +20,10 @@ The status of each is indicated by the colored dots:
 `@status[deferred]` Deffered
 
 Service stops will only have 3 statuses:
-- Not started
-- Inprogress
-- Completed
+
+`@status[not-started]` Not started
+`@status[in-progress]` In Progress
+`@status[completed]` Completed
  
  # Deleting
 Swiping to the right will bring up the delete option
