@@ -1,20 +1,5 @@
-![](https://cdn.realsgii2.dev/wise-software-docs/image_1.7ffda2ce.png)
-
-In this video we will be covering Inventory Settings including
-
-defining Units of Measure
-
-setting up inventory sites
-
-inventory categories
-
-defining seasons
-
-product manufacturers
-
-vendor sync accounts
-
-attributes for serialized items.
+# Settings
+Inventory Settings is where you can define Units of Measure, sites, categories, seasons, product manufacturers, vendor sync accounts and attributes for serialized items.
 
 In the Inventory screen, # right click
 to open the app bar on the bottom and then click on settings.
