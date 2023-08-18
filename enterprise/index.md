@@ -1,8 +1,4 @@
-# Wise Software - Enterprise tutorial. In this section, we will cover navigating and searching the program.
-
-Navigation and Search
-
-# Dashboard
+# Quick Start.
 
 – When first logging in the you will be greeted with the Employee Dashboard
 
