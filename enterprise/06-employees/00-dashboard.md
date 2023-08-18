@@ -4,9 +4,7 @@ Selecting Employees from the main menu on the left of the dashboard will take yo
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_1.e09be409.png)
 
-# DETAIL
 
-![](https://cdn.realsgii2.dev/wise-software-docs/image_2.75f89472.png)
 
 # EARNINGS
 
