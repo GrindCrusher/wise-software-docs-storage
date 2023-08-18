@@ -30,7 +30,7 @@ On the right side of the screen you'll see three blue boxes. The top blue box wi
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_7.cf33080b.png)
 
-# ADDING NEW CUSTOMERS
+# Adding Customers
 
 Clicking on the plus icon on the upper right hand corner will allow you to add a new customer to the program. Clicking on the trash can icon will delete the customer. NOTE: You can delete only if there's no information attached to the customer.
 
@@ -39,4 +39,8 @@ Clicking on the plus icon on the upper right hand corner will allow you to add a
 This will bring up the Add Customer window where you may add their account name, First Name, Last Name, etc.
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_9.bee68975.png)
+
+# Deleting Customers
+
+Clciking on the delete icon will delete the customer. Keep in mind that if there is history, the customer cannot be deleted. It may be more benificial to set the account to inactive so they will not show up in your reports and searches.
 
