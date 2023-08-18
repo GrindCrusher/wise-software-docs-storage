@@ -8,9 +8,7 @@ Selecting Employees from the main menu on the left of the dashboard will take yo
 
 
 
-# WITHHOLDINGS
 
-![](https://cdn.realsgii2.dev/wise-software-docs/image_4.f122b063.png)
 
 # VACATION/SICK
 
