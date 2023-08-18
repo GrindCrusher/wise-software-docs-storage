@@ -12,7 +12,7 @@ Clicking on the calendar button in the upper right will bring up the calendar wh
 
 # Route Optimization
 
-If you have the Wise Software GPS services and [permissions](https://docs.wisesoftwareinc.com/enterprise/employees/permissions) clicking on the push pin will bring up the optimization screen. This will allow you to optimize service stops & work orders for the day.
+If you have the Wise Software GPS services and [permissions](https://docs.wisesoftwareinc.com/enterprise/employees/permissions#mobile) clicking on the push pin will bring up the optimization screen. This will allow you to optimize service stops & work orders for the day.
 
 ![](https://wiselibrary.blob.core.windows.net/docs/Mobile/LocationIcon.png)
 
