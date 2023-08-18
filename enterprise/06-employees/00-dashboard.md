@@ -10,9 +10,7 @@ Selecting Employees from the main menu on the left of the dashboard will take yo
 
 
 
-# VACATION/SICK
 
-![](https://cdn.realsgii2.dev/wise-software-docs/image_5.b1884e7d.png)
 
 
 
