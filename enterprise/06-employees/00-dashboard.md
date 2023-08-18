@@ -6,9 +6,7 @@ Selecting Employees from the main menu on the left of the dashboard will take yo
 
 
 
-# EARNINGS
 
-![](https://cdn.realsgii2.dev/wise-software-docs/image_3.250f3500.png)
 
 # WITHHOLDINGS
 
