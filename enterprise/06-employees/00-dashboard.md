@@ -4,3 +4,7 @@ Selecting Employees from the main menu on the left of the dashboard will take yo
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_1.e09be409.png)
 
+# SCHEDULING
+
+![](https://cdn.realsgii2.dev/wise-software-docs/image_7.560194ed.png)
+
