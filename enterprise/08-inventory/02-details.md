@@ -78,16 +78,3 @@ If this inventory item is a product used to treat a symptom in a body of water, 
 
 This will make this item available to report use on service sheets. Begin entering the details of this treatment by selecting the unit of measure this product is dosed in. Define the Dosage in terms of the unit of measure in the dosage box. Define the dosage per amount of gallons in the per gallons box. Define the total product size in terms of unit of measure in the product size box.
 
-
-
-
-
-
-
-
-
-# HISTORY
-
-The history tab allows you to view the complete history of the currently selected item, allowing you to track all events where the item has been sold, purchased, moved between location, added to stock, etc.
-
-![](https://cdn.realsgii2.dev/wise-software-docs/image_41.c4211790.png)
