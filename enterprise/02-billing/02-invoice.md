@@ -27,7 +27,9 @@ Template Preview - If you have Wise Software's messaging services than SendGrid 
  
 ![](https://wiselibrary.blob.core.windows.net/docs/Windows/Emailing.png)
 
+If PayNow is enabled for the customer than a link will be provided in the email allowing the customer to pay thier balance online via credit card or ACH. Note that you must have a Global Payments account to use this feature.
 
+![](https://wiselibrary.blob.core.windows.net/docs/Windows/OnlinePayment.png)
 
 
 # Add
