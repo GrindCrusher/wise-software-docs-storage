@@ -2,27 +2,50 @@
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_3.05a84d54.png)
 
+There are multiple actions that can be done for an invoice.
+
+![](https://wiselibrary.blob.core.windows.net/docs/Windows/InvoiceActions.png)
+
+Search, email, print, new and delete. 
+
+# Search
+Invoice search will only search though invoices opened and closed based on the customer name or invoice number.
+
+![](https://wiselibrary.blob.core.windows.net/docs/Windows/InvoiceSearch.png)
+
+
+
+# Email
+
+When emailing an invoice a popup will display 3 sections.
+
+Email type - This is where you can select traditional SMTP or SendGrid.
+
+Recipients - It will load the primary contacts email by default. Selecting the drop will allow choosing other emails if the exist. You can also manually type in an address.
+
+Template Preview - If you have Wise Software's messaging services than SendGrid will be selected and a preview of the email template will be displayed.
+ 
+![](https://wiselibrary.blob.core.windows.net/docs/Windows/Emailing.png)
+
+
+
+
+# Add
+
 To start a new invoice, first click on the invoice tab and then click the plus icon at the top right of the screen.
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_4.f5273df2.png)
 
 The Billing and Service address will automatically fill in with the default address of the account. Use the pull down under Billing Address to change the address this invoice will be printed or emailed to. Use the pull down under Service Address to change the address where the service on this invoice was provided.
 
-
-
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_5.3d0fac31.png)
-
-
 
 
 Under Details, the Status shows New until the invoice is saved for the first time and the paid status of the invoice thereafter. Unpaid, Partial, or Paid.
 
-
 The billing type of the customer is shown allowing us to see how this customer prefers receiving invoices at a quick glance in the invoice details.
 
-
 If an invoice is generated from a Work Order or tied to a Purchase order, they linked order number will display.
-
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_6.da8ef35a.png)
 
@@ -84,6 +107,9 @@ In the Price column, you can modify the per item price of this line item by manu
 
 
 And lastly in the Discount column, define a flat rate or percentage discount. The line's total will update in the Amount column as these changes are made.
+
+# Delete
+ Clciking the delete button will prompt for a confimation before the actual deleting. If the invoice has a payment towards it, you may not delete it until the paymet has been removed from the invoice.
 
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_12.a0ce9b60.png)
