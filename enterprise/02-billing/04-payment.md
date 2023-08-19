@@ -82,7 +82,7 @@ This is where you can add a credit to an invoice.
 
 Once all the details of our payment are filled in, we click the checkmark button in the upper right hand side of the payment screen and the payment is applied. Paid items will disappear from the payment screen
 
-
+# Credit Card
 
 Lets enter a credit card payment paying for a specific invoice
 
@@ -139,47 +139,8 @@ Once all the details of our credit card payment are filled in, we click the chec
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_24.a67dd749.png)
 
-# NEW
 
-![](https://cdn.realsgii2.dev/wise-software-docs/image_1.d3d46ce0.png)
-
-From the Billing Module, click the Payment Tab.
-
-![](https://cdn.realsgii2.dev/wise-software-docs/image_2.09429a5a.png)
-
-Click on the Add Quick Action Button to start the process of adding a payment to the currently selected customer.
-
-![](https://cdn.realsgii2.dev/wise-software-docs/image_3.5b40f684.png)
-
-Updated the Payment Date as needed. Use the date selection button to the right of the field or manually type in the date.
-
-![](https://cdn.realsgii2.dev/wise-software-docs/image_4.48c66ee2.png)
-
-If Necessary, use the Address pull down to change the address this payment will be applied to.
-
-![](https://cdn.realsgii2.dev/wise-software-docs/image_5.5f2e07f2.png)
-
-Reference information can be placed in the Reference # field. Note that this field is not required.
-
-Use the Payment Type pull down to select Check.
-
-![](https://cdn.realsgii2.dev/wise-software-docs/image_6.4662423d.png)
-
-Enter the Check #
-
-![](https://cdn.realsgii2.dev/wise-software-docs/image_7.8b924c5e.png)
-
-In the Open Invoices grid, click into the Payment column for the invoice we want to pay.
-
-![](https://cdn.realsgii2.dev/wise-software-docs/image_8.e8d644e9.png)
-
-If the payment is not for the full amount of the invoice, type in the amount of the payment into the Payment field and press Tab.
-
-![](https://cdn.realsgii2.dev/wise-software-docs/image_9.54aea2d6.png)
-
-
-
-# Apply
+# Check
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_1.84696a8f.png)
 
 From the Billing screen, click the Payment Tab.
