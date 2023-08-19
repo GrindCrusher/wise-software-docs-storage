@@ -184,4 +184,10 @@ Click the Process quick action button to apply the payment
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_11.b95cdf55.png)
 
+# Credit
+
+Selecting credit will display any remaining credits in the lower left. Either select use which will attempt to use the remaining balance or type in a specfic amount in the use amount column. If the credit amount is greater than the invoice(s) total than only that will be used. Credits apply to the oldest invoice first.
+
+![](https://wiselibrary.blob.core.windows.net/docs/Windows/UseCredit.png)
+
 
