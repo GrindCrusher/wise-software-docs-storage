@@ -1,1 +1,0 @@
-@partial[/common/example-partial]
