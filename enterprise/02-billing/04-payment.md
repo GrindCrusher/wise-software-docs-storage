@@ -82,7 +82,7 @@ This is where you can add a credit to an invoice.
 
 Once all the details of our payment are filled in, we click the checkmark button in the upper right hand side of the payment screen and the payment is applied. Paid items will disappear from the payment screen
 
-# Credit Card
+# Credit Cards
 
 Lets enter a credit card payment paying for a specific invoice
 
@@ -140,7 +140,7 @@ Once all the details of our credit card payment are filled in, we click the chec
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_24.a67dd749.png)
 
 
-# Check
+# Check / Cash
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_1.84696a8f.png)
 
 From the Billing screen, click the Payment Tab.
