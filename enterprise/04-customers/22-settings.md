@@ -2,7 +2,7 @@ In the Customer screen, right click to open the app bar on the bottom and then c
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_1.bc96a60b.png)
 
-# Equipment Type
+# Equipment Types
 
 The equipment type tab is where you can enter you list of equipment categories. This list will show in the equipment list in customers and in inventory. The current list has about 15 items that you can edit by clicking on them.
 
@@ -10,7 +10,7 @@ The equipment type tab is where you can enter you list of equipment categories. 
 
 You can add a new item to the list by clicking the Click here to add new item. You can delete an item by clicking on the garbage can. Keep in mind that if this equipment type is associated to a customer it may not be delete.
 
-# Customer Type
+# Customer Types
 
 The customer type tab is where you can enter you list of customer categories. This list will show in the account information. The current list has 1 or 2 items that you can edit by clicking on them.
 
@@ -18,7 +18,7 @@ The customer type tab is where you can enter you list of customer categories. Th
 
 You can add a new item to the list by clicking the Click here to add new item. You can delete an item by clicking on garbage can. Keep in mind that if this customer type is associated to a customer it may not be delete. This list can be used to filter when in reports, printing or emailing.
 
-# Rewards
+# Reward Levels
 
 The rewards tab is where you can set different categories of rewards for your customers, Example None, Gold, Platinum Silver. To add a new category click on the plus sign in the upper right hand corner of the screen.
 
