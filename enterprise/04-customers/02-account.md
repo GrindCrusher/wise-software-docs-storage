@@ -1,4 +1,4 @@
-# ACCOUNT INFORMATION
+# Account Information
 
 This is where you'll edit the account name, service type, and other account information.
 
@@ -39,13 +39,13 @@ Late fees can be turned on per customer in Enterprise. If this customer is to re
 
 You have the option to assign this customer to one of your specific stores or company's if you operate out of more than one location by clicking on the Home Location drop-down.
 
-# PAY NOW
+# Pay Now
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_19.4e9dd06b.png)
 
 If you have Global Payments accopunt you can allow your customer to pay online via credit card or ACH. The Pay Now determines how your customer will be alerted.
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_20.dc40db44.png)
 
-# CONVENIENCE FEES
+# Convenience Fees
 
 Lastly, convenience fees can be applied to a manually ran card, vault or by auto pay. The fees may be applied per customer. The maximum amount is 4% and is dictated by AMEX / Master Card.  
