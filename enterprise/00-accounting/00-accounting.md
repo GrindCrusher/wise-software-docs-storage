@@ -12,9 +12,7 @@ You will then be on the dashboard screen where you will see Vendor Invoices.
 
 # SALES TAX
 
-# LEDGERS
 
-![](https://cdn.realsgii2.dev/wise-software-docs/image_3.6d433dbe.png)
 
 # CARD HISTORY
 
