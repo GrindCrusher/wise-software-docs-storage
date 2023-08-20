@@ -2,7 +2,7 @@
 
 This is where you'll edit the account name, service type, and other account information.
 
-![](https://cdn.realsgii2.dev/wise-software-docs/image_10.223ade4c.png)
+![](https://wiselibrary.blob.core.windows.net/docs/Windows/CustomerAccount.png)
 
 If the customer is participating in your Rewards program, select their Reward Level from the Rewards drop-down. See our video on Customer Settings for how to define Reward Levels.
 
@@ -41,6 +41,10 @@ You have the option to assign this customer to one of your specific stores or co
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_19.4e9dd06b.png)
 
-Lastly, you will find the Pay Now option drop-down if your customer has opted in. Note this is only operational if you have a credit card service.
+If you have Global Payments accopunt you can allow your customer to pay online via credit card or ACH. The Pay Now determines how your customer will be alerted.
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_20.dc40db44.png)
+
+# Convenience Fees
+
+Lastly, convenience fees can be applied to manually ran card, vault or by auto pay. The fees may be applied per customer. The maximum amount is 4% and is dictated by AMEX / Master Card.  
