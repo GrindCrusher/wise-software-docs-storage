@@ -14,9 +14,7 @@ You will then be on the dashboard screen where you will see Vendor Invoices.
 
 
 
-# CARD HISTORY
 
-![](https://cdn.realsgii2.dev/wise-software-docs/image_4.a6d8f2f7.png)
 
 # PAY INVOICES
 
