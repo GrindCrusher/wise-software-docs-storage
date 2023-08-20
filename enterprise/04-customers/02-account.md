@@ -4,11 +4,11 @@ This is where you'll edit the account name, service type, and other account info
 
 ![](https://wiselibrary.blob.core.windows.net/docs/Windows/CustomerAccount.png)
 
-If the customer is participating in your Rewards program, select their Reward Level from the Rewards drop-down. Reward levels are defined in the customer settings.
+If the customer is participating in your Rewards program, select their Reward Level from the Rewards drop-down. Reward levels are defined in the [customer settings](https://docs.wisesoftwareinc.com/enterprise/customers/settings#rewards).
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_11.c4439a5c.png)
 
-Select the Type for the customer from the second drop-down. Customer types are used as subsets of customers for billing output. Customer Types are defined in the customer settings.
+Select the Type for the customer from the second drop-down. Customer types are used as subsets of customers for billing output. Customer Types are defined in the [customer settings](https://docs.wisesoftwareinc.com/enterprise/customers/settings#customer-type).
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_12.ca937c53.png)
 
@@ -39,13 +39,13 @@ Late fees can be turned on per customer in Enterprise. If this customer is to re
 
 You have the option to assign this customer to one of your specific stores or company's if you operate out of more than one location by clicking on the Home Location drop-down.
 
-# PayNow
+# PAY NOW
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_19.4e9dd06b.png)
 
 If you have Global Payments accopunt you can allow your customer to pay online via credit card or ACH. The Pay Now determines how your customer will be alerted.
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_20.dc40db44.png)
 
-# Convenience Fees
+# CONVENIENCE FEES
 
 Lastly, convenience fees can be applied to a manually ran card, vault or by auto pay. The fees may be applied per customer. The maximum amount is 4% and is dictated by AMEX / Master Card.  
