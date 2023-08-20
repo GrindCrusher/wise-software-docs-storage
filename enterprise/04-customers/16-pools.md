@@ -1,6 +1,6 @@
 # Pools
 
-This is where you edit size and type of pool or spa information.
+This is where you edit the details of the body of water information.
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_38.fda1c8d4.png)
 
