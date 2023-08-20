@@ -1,4 +1,4 @@
-# EQUIPMENT
+# Equipment
 
 This is where you can edit equipment information for all of the customer's locations. To add a new item click on the plus sign in the upper right hand corner.
 
