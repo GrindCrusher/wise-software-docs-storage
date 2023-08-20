@@ -39,6 +39,7 @@ Late fees can be turned on per customer in Enterprise. If this customer is to re
 
 You have the option to assign this customer to one of your specific stores or company's if you operate out of more than one location by clicking on the Home Location drop-down.
 
+# PayNow
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_19.4e9dd06b.png)
 
 If you have Global Payments accopunt you can allow your customer to pay online via credit card or ACH. The Pay Now determines how your customer will be alerted.
