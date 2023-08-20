@@ -47,4 +47,4 @@ If you have Global Payments accopunt you can allow your customer to pay online v
 
 # Convenience Fees
 
-Lastly, convenience fees can be applied to manually ran card, vault or by auto pay. The fees may be applied per customer. The maximum amount is 4% and is dictated by AMEX / Master Card.  
+Lastly, convenience fees can be applied to a manually ran card, vault or by auto pay. The fees may be applied per customer. The maximum amount is 4% and is dictated by AMEX / Master Card.  
