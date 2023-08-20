@@ -1,6 +1,6 @@
-# PICTURES
+# Pictures
 
-Pictures have four sections. Address, equipment, work order, and route stop. To add new pictures, click the plus sign in the upper right hand corner and search for your photo in your files. To delete a picture, click on the picture and click the trash can icon.
+The picture library has four sections. Address, equipment, work order, and route stop. They are added from thier respective locations.
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_36.cfbd8874.png)
 
