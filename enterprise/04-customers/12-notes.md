@@ -1,4 +1,4 @@
-# NOTES
+# Notes
 
 This is where you can edit customer notes. NOTE: The customer cannot see these notes. They are for your own use.
 
