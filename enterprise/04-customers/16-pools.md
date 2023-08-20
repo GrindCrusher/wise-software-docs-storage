@@ -1,4 +1,4 @@
-# POOLS
+# Pools
 
 This is where you edit size and type of pool or spa information.
 
@@ -12,7 +12,7 @@ Using the pulldown selection boxes, select the Location where the body of water 
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_40.cdd4e27c.png)
 
-Select a Reading Template from the Template pulldown to indicate what tests are normally performed when servicing this body of water.
+Select a Reading Template from the Template pulldown to indicate what tests are normally performed when servicing this body of water. Reading template can be defined in [customer settings](https://docs.wisesoftwareinc.com/enterprise/customers/settings#reading-templates)
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_41.c2401428.png)
 
