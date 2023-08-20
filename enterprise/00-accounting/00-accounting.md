@@ -8,9 +8,7 @@ You will then be on the dashboard screen where you will see Vendor Invoices.
 
 # DEPOSITS
 
-# CHECKS
 
-![](https://cdn.realsgii2.dev/wise-software-docs/image_2.aa455858.png)
 
 # SALES TAX
 
