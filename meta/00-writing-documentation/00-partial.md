@@ -34,13 +34,13 @@ This is an **example** of a Partial.
 
 # Using Partials
 
-Use the Partial component: `@partial[path]`. The path argument would be the path to the partial file, starting from the partials folder. For example, if your partial is in `/partials/common/example.md`, you would write `@partial[/common/example.md]`.
+Use the Partial component: `@​partial[path]`. The path argument would be the path to the partial file, starting from the partials folder. For example, if your partial is in `/partials/common/example.md`, you would write `@​partial[/common/example.md]`.
 
 Make sure that the partial is on its own line! It should look like this:
 ```md
 Paragraph.
 
-@partial[/common/example.md]
+@​partial[/common/example.md]
 
 Other paragraph.
 ```
@@ -56,13 +56,13 @@ The most likely cause of this error is that the path you typed in wasn't correct
 # Partial Spec
 
 ```md
-@partial[Path path]
+@​partial[Path path]
 @partial:fail
 ```
 ## Primary
 
 ```md
-@partial[Path path]
+@​partial[Path path]
 ```
 
 Embed a partial.
