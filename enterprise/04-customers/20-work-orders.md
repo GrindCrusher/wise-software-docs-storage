@@ -4,4 +4,6 @@ Here you can edit service orders that can be assigned by calendar to your differ
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_45.86a24ed1.png)
 
+The work orders view will also quickly show which have been invoiced and which have been paid.
+
 
