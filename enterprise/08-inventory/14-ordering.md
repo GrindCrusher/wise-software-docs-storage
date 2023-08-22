@@ -1,4 +1,4 @@
-# ORDERING
+# Ordering
 
 The ordering tab allows you to set order points based on seasons and the history tab shows record of past additions and deductions from this item’s on hand count.
 
