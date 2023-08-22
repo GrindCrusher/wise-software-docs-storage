@@ -8,13 +8,7 @@ In the Customer screen, right click to open the app bar on the bottom and then c
 
 
 
-# Checklist
 
-The checklist tab has 3 lists a pool checklist, a spa check list and a water feature check list.
-
-![](https://cdn.realsgii2.dev/wise-software-docs/image_5.ee642414.png)
-
-These lists show in the mobile app on the phone. When you service a location and select that customer, the checklist will show so you can check off the items you have completed. The list is added from the customer pools tab when you select a type. Pool, spa, or water feature. You can add a new item to the list by clicking the Click here to add new item. You can delete an item by clicking the garbage can on each line.
 
 # Work Order Categories
 
