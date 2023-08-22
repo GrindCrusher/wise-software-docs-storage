@@ -6,13 +6,7 @@ In the Customer screen, right click to open the app bar on the bottom and then c
 
 
 
-# Reward Levels
 
-The rewards tab is where you can set different categories of rewards for your customers, Example None, Gold, Platinum Silver. To add a new category click on the plus sign in the upper right hand corner of the screen.
-
-![](https://cdn.realsgii2.dev/wise-software-docs/image_4.8039c637.png)
-
-You can enter the name, description, and multiplier. The multiplier will multiply points given to an item in inventory. For example if an inventory item is assigned 1 point and the multiplier is set to 10, then everytime that item is sold the customer will receive 10 points. This allows great flexabiltiy in the reward programs you can offer. To delete an item, first select the item by clicking on it and then click on the garbage can in the upper right hand corner of the screen. The rewards can be set in the customer account tab.
 
 # Checklist
 
