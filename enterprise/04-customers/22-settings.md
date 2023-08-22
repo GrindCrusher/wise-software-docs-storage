@@ -5,19 +5,6 @@ In the Customer screen, right click to open the app bar on the bottom and then c
 
 
 
-
-
-
-
-
-# Work Order Categories
-
-The work order categories let you sort and your view work orders.
-
-![](https://cdn.realsgii2.dev/wise-software-docs/image_6.31f62f41.png)
-
-You can set the name of the category, the description of the category, the estimated time this category will take for the job, and the color that will show in the calendar for that category. You can add a new item to the list by clicking the Click here to add new item. You can delete an item by clicking the garbage can once you have selected the line.
-
 # Readings
 
 The readings tab is where you can set ranges for the different water tests you do and select a product if the reading is low or high.
