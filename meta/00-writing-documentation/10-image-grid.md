@@ -26,24 +26,21 @@ Image grids are done in one block. Do not include blank lines between them, othe
 
 Do not include empty lines between the images or image grid tag.
 
-## Example
-
-@youtube[dQw4w9WgXcQ]
-
-
 # YouTube Spec
 
 ```md
-@youtube[String id]
+@img-grid
+{...}
 ```
 ## Primary
 
 ```md
-@youtube[String id]
+@img-grid
+{...}
 ```
 
 Embed a partial.
 
-| Parameter | Type   | Description                           |
-| --------- | ------ | ------------------------------------- |
-| id        | String | The ID of the YouTube video to embed. |
+| Parameter | Type     | Description                           |
+| --------- | -------- | ------------------------------------- |
+| ...       | Markdown | The content to include in the grid.   |

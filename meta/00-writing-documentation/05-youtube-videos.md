@@ -36,7 +36,7 @@ Other paragraph.
 @youtube[String id]
 ```
 
-Embed a partial.
+Embed a YouTube video.
 
 | Parameter | Type   | Description                           |
 | --------- | ------ | ------------------------------------- |
