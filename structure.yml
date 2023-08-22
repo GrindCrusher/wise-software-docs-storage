@@ -8,7 +8,7 @@
   displayIcon: https://cdn.realsgii2.dev/wise-software-docs-static/wiseMobile.png
   color: "#6048da"
   
-- displayName: Test
-  description: Testing realm.
-  displayIcon: https://cdn.realsgii2.dev/wise-software-docs-static/wiseMobile.png
+- displayName: Meta
+  description: Documentation maintainer resources.
+  displayIcon: https://cdn.realsgii2.dev/wise-software-docs-static/metaIcon.png
   color: "#000000"
