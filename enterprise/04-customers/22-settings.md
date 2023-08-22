@@ -2,13 +2,7 @@ In the Customer screen, right click to open the app bar on the bottom and then c
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_1.bc96a60b.png)
 
-# Equipment Types
 
-The equipment type tab is where you can enter you list of equipment categories. This list will show in the equipment list in customers and in inventory. The current list has about 15 items that you can edit by clicking on them.
-
-![](https://cdn.realsgii2.dev/wise-software-docs/image_2.37fe9231.png)
-
-You can add a new item to the list by clicking the Click here to add new item. You can delete an item by clicking on the garbage can. Keep in mind that if this equipment type is associated to a customer it may not be delete.
 
 # Customer Types
 
