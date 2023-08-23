@@ -30,6 +30,12 @@ The three boxes on the right side of the screen show location stock, which custo
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_8.17761039.png)
 
+# Adding Inventory
+
 To add a new inventory item, click the plus icon at the top right. This will bring up the Add Product window where you may add details such as Product Name, Type, etc.
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_9.406952c1.png)
+
+# Deleting Inventory
+
+Clicking on the delete icon will delete the inventory item. Keep in mind that if there is sales or ordering history, the item cannot be deleted
