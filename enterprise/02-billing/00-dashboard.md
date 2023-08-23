@@ -35,7 +35,7 @@ This will bring up the customer search screen, if there was a recent search the 
 # Bulk Billing
 Printing and emailing in bulk for invoices or statements.
 
-![](https://wiselibrary.blob.core.windows.net/docs/Windows/BillablesReport.png)
+![](https://wiselibrary.blob.core.windows.net/docs/Windows/BulkBilling.png)
 
 # Email Logs
 Any emails sent out through SMTP or SendGrid will be listed here. SendGrid has a more comprehensice email tracking such as how many times opened and what is being clicked on.
