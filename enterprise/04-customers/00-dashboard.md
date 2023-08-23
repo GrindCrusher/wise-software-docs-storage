@@ -49,7 +49,7 @@ This will bring up the Add Customer window where you may add their account name,
 
 # Deleting Customers
 
-Clciking on the delete icon will delete the customer. Keep in mind that if there is history, the customer cannot be deleted. It may be more benificial to set the account to inactive so they will not show up in your reports and searches.
+Clicking on the delete icon will delete the customer. Keep in mind that if there is history, the customer cannot be deleted. It may be more benificial to set the account to inactive so they will not show up in your reports and searches.
 
 # Global Buttons
 
