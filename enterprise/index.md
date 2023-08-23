@@ -1,6 +1,7 @@
 # Quick Start.
 
 
+
 [How do I add a customer](https://docs.wisesoftwareinc.com/enterprise/customers/dashboard#adding-customers)
 
 
