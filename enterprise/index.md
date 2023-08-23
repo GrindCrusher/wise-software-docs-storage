@@ -6,6 +6,10 @@
 
 [How do I create an invoice](https://docs.wisesoftwareinc.com/enterprise/billing/invoice#add)
 
+[How do I create a payment](https://docs.wisesoftwareinc.com/enterprise/billing/payment)
+
+[How do I print/send my billing](https://docs.wisesoftwareinc.com/enterprise/billing/dashboard#bulk-billing)
+
 
 # Basics
 
