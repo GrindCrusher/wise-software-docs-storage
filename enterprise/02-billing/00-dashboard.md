@@ -23,7 +23,7 @@ Across the top of the screen (except for the dashboard) you'll find tabs for the
 
 # Global Buttons
 
-Right clicking will bring up the global options for the billing.
+Right clicking will bring up the global options for the billing. The can be done from any tab while iin the billing module.
 
 ![](https://wiselibrary.blob.core.windows.net/docs/Windows/BIllingGlobalButtons.png)
 
