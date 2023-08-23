@@ -1,5 +1,12 @@
 # Quick Start.
 
+[How do I add a customer](https://docs.wisesoftwareinc.com/enterprise/customers/dashboard#adding-customers)
+
+[How do I create an invoice](https://docs.wisesoftwareinc.com/enterprise/billing/invoice#add)
+
+
+# Basics
+
 – When first logging in the you will be greeted with the Employee Dashboard
 
 This dashboard gives quick access to your specific jobs for the day including Service Stop, Work Orders, Reminders and Tasks.
