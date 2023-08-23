@@ -4,13 +4,19 @@ This is where you'll edit the account name, service type, and other account info
 
 ![](https://wiselibrary.blob.core.windows.net/docs/Windows/CustomerAccount.png)
 
+# Rewards
+
 If the customer is participating in your Rewards program, select their Reward Level from the Rewards drop-down. Reward levels are defined in the [customer settings](https://docs.wisesoftwareinc.com/enterprise/customers/settings#reward-levels).
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_11.c4439a5c.png)
 
+# Customer Type
+
 Select the Type for the customer from the second drop-down. Customer types are used as subsets of customers for billing output. Customer Types are defined in the [customer settings](https://docs.wisesoftwareinc.com/enterprise/customers/settings#customer-types).
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_12.ca937c53.png)
+
+# Tax
 
 Use the Tax Code drop-down to tell the system if this customer pays tax when sold a taxable product. The selected tax rate should be based on selling the customer a product at their service location.
 
