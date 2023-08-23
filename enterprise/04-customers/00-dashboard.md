@@ -49,8 +49,13 @@ Right clicking will bring up the global options for the billing.
 ![](https://wiselibrary.blob.core.windows.net/docs/Windows/BIllingGlobalButtons.png)
 
 # Settings
-[Billing settings](https://docs.wisesoftwareinc.com/enterprise/billing/settings)
+[Customer settings](https://docs.wisesoftwareinc.com/enterprise/customer/settings)
 
 # Search
 This will bring up the customer search screen, if there was a recent search the previous result will be displayed there.
+
+# Email Logs
+Any emails sent out through SMTP or SendGrid will be listed here. SendGrid has a more comprehensice email tracking such as how many times opened and what is being clicked on.
+
+![](https://wiselibrary.blob.core.windows.net/docs/Windows/EmailLogs.png)
 
