@@ -46,7 +46,7 @@ This will bring up the Add Customer window where you may add their account name,
 
 Right clicking will bring up the global options for the billing.
 
-![](https://wiselibrary.blob.core.windows.net/docs/Windows/BIllingGlobalButtons.png)
+![](https://wiselibrary.blob.core.windows.net/docs/Windows/CustomerGlobalButtons.png)
 
 # Settings
 [Customer settings](https://docs.wisesoftwareinc.com/enterprise/customer/settings)
