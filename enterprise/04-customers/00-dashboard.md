@@ -51,7 +51,7 @@ This will bring up the Add Customer window where you may add their account name,
 
 Clicking on the delete icon will delete the customer. Keep in mind that if there is history, the customer cannot be deleted. It may be more benificial to set the account to inactive so they will not show up in your reports and searches.
 
-# Global Buttons
+# App Bar
 
 Right clicking will bring up the global options for the billing. The can be done from any tab while iin the customers module.
 
