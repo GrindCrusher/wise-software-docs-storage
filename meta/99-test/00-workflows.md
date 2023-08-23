@@ -2,11 +2,11 @@
 
 Test of the Workflow component.
 
-@workflow[/test/page]{Add a customer}
-@workflow[/test/page]{Create an invoice}
-@workflow[/test/page]{Create a payment}
-@workflow[/test/page]{Print or send my billing}
-@workflow[/test/page]{Add a customer}
-@workflow[/test/page]{Create an invoice}
-@workflow[/test/page]{Create a payment}
-@workflow[/test/page]{Print or send my billing}
+@workflow[/meta/test/page]{Add a customer}
+@workflow[/meta/test/page]{Create an invoice}
+@workflow[/meta/test/page]{Create a payment}
+@workflow[/meta/test/page]{Print or send my billing}
+@workflow[/meta/test/page]{Add a customer}
+@workflow[/meta/test/page]{Create an invoice}
+@workflow[/meta/test/page]{Create a payment}
+@workflow[/meta/test/page]{Print or send my billing}
