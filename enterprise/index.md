@@ -1,14 +1,10 @@
 # Most Common Questions
 Here is a quick start to getting to the most common tasks.
 
-[How do I add a customer](https://docs.wisesoftwareinc.com/enterprise/customers/dashboard#adding-customers)
-
-[How do I create an invoice](https://docs.wisesoftwareinc.com/enterprise/billing/invoice#add)
-
-[How do I create a payment](https://docs.wisesoftwareinc.com/enterprise/billing/payment)
-
-[How do I print/send my billing](https://docs.wisesoftwareinc.com/enterprise/billing/dashboard#bulk-billing)
-
+@workflow[/enterprise/customers/dashboard#adding-customers]{Add a customer}
+@workflow[/enterprise/billing/invoice#add]{Create an invoice}
+@workflow[/enterprise/billing/payment]{Create a payment}
+@workflow[/enterprise/billing/dashboard#bulk-billing]{Print or send billing}
 
 # Basics
 
