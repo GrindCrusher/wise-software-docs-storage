@@ -46,7 +46,7 @@ Clciking on the delete icon will delete the customer. Keep in mind that if there
 
 # Global Buttons
 
-Right clicking will bring up the global options for the billing.
+Right clicking will bring up the global options for the billing. The can be done from any tab while iin the customers module.
 
 ![](https://wiselibrary.blob.core.windows.net/docs/Windows/CustomerGlobalButtons.png)
 
