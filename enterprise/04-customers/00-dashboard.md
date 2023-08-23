@@ -8,6 +8,13 @@ The Customer area is where you can add, edit, and delete customer information.
 
 From here you can edit account information, locations, contacts, equipment, notes, pictures, pools, service, and work orders.
 
+
+# Aging Status
+
+There is a colored ring around the customers profile, it indicates how aged an account is. Green is under 30 days, orange is under 60 and red is 90+ days
+
+![](https://wiselibrary.blob.core.windows.net/docs/Windows/AgingStatus.png)
+
 Across the top of the screen you'll find tabs for the customer whose name is at the top of the screen.
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_3.ba293b94.png)
