@@ -1,4 +1,4 @@
-# DASHBOARD
+# Dashboard
 
 When clicking on Inventory for the first time, a search box will appear. Type in the name or the SKU of the item you are looking for.
 
@@ -6,6 +6,7 @@ You can also access the search by right clicking to bring up the app bar at the 
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_3.d8fdfa24.png)
 
+# Search Inventory
 You can search by a product’s name, SKU category and even description. Type what you are searching for into the text box at the top of the search screen and press Tab or Enter on your keyboard. Results will display with the default picture for the product, Name and SKU, manufacture product number, manufacture, category, available stock counts and default price.
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_4.9315b0e0.png)
