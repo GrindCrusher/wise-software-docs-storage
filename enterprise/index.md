@@ -1,9 +1,7 @@
-# Quick Start.
-
+# Quick Start
 
 
 [How do I add a customer](https://docs.wisesoftwareinc.com/enterprise/customers/dashboard#adding-customers)
-
 
 [How do I create an invoice](https://docs.wisesoftwareinc.com/enterprise/billing/invoice#add)
 
