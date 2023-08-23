@@ -1,4 +1,16 @@
-# Quick Start.
+# Most Common Questions
+Here is a quick start to getting to the most common tasks.
+
+[How do I add a customer](https://docs.wisesoftwareinc.com/enterprise/customers/dashboard#adding-customers)
+
+[How do I create an invoice](https://docs.wisesoftwareinc.com/enterprise/billing/invoice#add)
+
+[How do I create a payment](https://docs.wisesoftwareinc.com/enterprise/billing/payment)
+
+[How do I print/send my billing](https://docs.wisesoftwareinc.com/enterprise/billing/dashboard#bulk-billing)
+
+
+# Basics
 
 – When first logging in the you will be greeted with the Employee Dashboard
 

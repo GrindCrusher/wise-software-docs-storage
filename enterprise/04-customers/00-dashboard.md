@@ -8,6 +8,13 @@ The Customer area is where you can add, edit, and delete customer information.
 
 From here you can edit account information, locations, contacts, equipment, notes, pictures, pools, service, and work orders.
 
+
+# Aging Status
+
+There is a colored ring around the customers profile, it indicates how aged an account is. Green is under 30 days, orange is under 60 and red is 90+ days
+
+![](https://wiselibrary.blob.core.windows.net/docs/Windows/AgingStatus.png)
+
 Across the top of the screen you'll find tabs for the customer whose name is at the top of the screen.
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_3.ba293b94.png)
@@ -43,4 +50,21 @@ This will bring up the Add Customer window where you may add their account name,
 # Deleting Customers
 
 Clciking on the delete icon will delete the customer. Keep in mind that if there is history, the customer cannot be deleted. It may be more benificial to set the account to inactive so they will not show up in your reports and searches.
+
+# Global Buttons
+
+Right clicking will bring up the global options for the billing. The can be done from any tab while iin the customers module.
+
+![](https://wiselibrary.blob.core.windows.net/docs/Windows/CustomerGlobalButtons.png)
+
+# Settings
+[Customer settings](https://docs.wisesoftwareinc.com/enterprise/customer/settings)
+
+# Search
+This will bring up the customer search screen, if there was a recent search the previous result will be displayed there.
+
+# Email Logs
+Any emails sent out through SMTP or SendGrid will be listed here. SendGrid has a more comprehensice email tracking such as how many times opened and what is being clicked on.
+
+![](https://wiselibrary.blob.core.windows.net/docs/Windows/EmailLogs.png)
 
