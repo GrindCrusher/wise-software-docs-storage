@@ -1,5 +1,5 @@
 # Most Common Questions
-Here is a quick start to getting toi the most common tasks.
+Here is a quick start to getting to the most common tasks.
 
 [How do I add a customer](https://docs.wisesoftwareinc.com/enterprise/customers/dashboard#adding-customers)
 
