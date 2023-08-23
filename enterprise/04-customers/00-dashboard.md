@@ -11,7 +11,7 @@ From here you can edit account information, locations, contacts, equipment, note
 
 # Aging Status
 
-There is a colored ring around the customers profile, it indicates how aged an account is. Green is under 30 days, orange is under 60 and red is 90+ days
+There is a colored ring around the customers profile, it indicates how aged an account is. Green is under 30 days, orange is under 60 and red is 90+ days. Ths color scheme will be active through out all of the Wise Software's eco-system.
 
 ![](https://wiselibrary.blob.core.windows.net/docs/Windows/AgingStatus.png)
 
@@ -49,9 +49,9 @@ This will bring up the Add Customer window where you may add their account name,
 
 # Deleting Customers
 
-Clciking on the delete icon will delete the customer. Keep in mind that if there is history, the customer cannot be deleted. It may be more benificial to set the account to inactive so they will not show up in your reports and searches.
+Clicking on the delete icon will delete the customer. Keep in mind that if there is history, the customer cannot be deleted. It may be more benificial to set the account to inactive so they will not show up in your reports and searches.
 
-# Global Buttons
+# App Bar
 
 Right clicking will bring up the global options for the billing. The can be done from any tab while iin the customers module.
 
