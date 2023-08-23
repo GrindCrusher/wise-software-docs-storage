@@ -11,7 +11,7 @@ From here you can edit account information, locations, contacts, equipment, note
 
 # Aging Status
 
-There is a colored ring around the customers profile, it indicates how aged an account is. Green is under 30 days, orange is under 60 and red is 90+ days
+There is a colored ring around the customers profile, it indicates how aged an account is. Green is under 30 days, orange is under 60 and red is 90+ days. Ths color scheme will be active through out all of the Wise Software's eco-system.
 
 ![](https://wiselibrary.blob.core.windows.net/docs/Windows/AgingStatus.png)
 
