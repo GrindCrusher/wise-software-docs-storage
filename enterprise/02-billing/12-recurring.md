@@ -1,14 +1,19 @@
 # RECURRING
 
-![](https://cdn.realsgii2.dev/wise-software-docs/image_36.ce3484ff.png)
-
 This is where you can set up recurring payments for customers.
 
+![](https://cdn.realsgii2.dev/wise-software-docs/image_36.ce3484ff.png)
 
 
-If you are first setting up recurring payments you will need to setup charge groups.
+![](https://cdn.realsgii2.dev/wise-software-docs/image_54.8a914e6f.png)
 
-A charge group is where a group of customers can be assigned a monthly charge.
 
-To create a charge groups you first need a template. This is set up in inventory.
+To add this Group to a customer address, just drag the Group to the address on the right of the screen. Now set the start date the day the billing should start.
+
+
+
+![](https://cdn.realsgii2.dev/wise-software-docs/image_55.8f3fdff2.png)
+
+
+Make as many groups as you need to cover the different recurring charges.
 
