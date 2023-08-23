@@ -21,7 +21,7 @@ On the right side of the screen you'll see three blue boxes. The top blue box wi
 Across the top of the screen (except for the dashboard) you'll find tabs for the customer whose name is at the top of the screen. At the top right of each tab there will be a plus and a garbage can icon. The plus is for adding new information, the garbage can is for deletion.
 
 
-# Global Buttons
+# App Bar
 
 Right clicking will bring up the global options for the billing. The can be done from any tab while iin the billing module.
 
