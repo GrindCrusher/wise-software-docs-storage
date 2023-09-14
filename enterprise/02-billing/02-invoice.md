@@ -85,7 +85,9 @@ At the bottom of the invoice screen you can enter a Description of the invoice. 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_10.c3ef9d0f.png)
 
 
-Use the billing note pull down to select a billing note to display on this invoice when output. Billing notes can be defined in the Billing Settings. (Right click and select settings)
+# Billing note
+
+Use the billing note pull down to select a billing note to display on this invoice when output. Billing notes can be defined in the [Billing Settings](https://docs.wisesoftwareinc.com/enterprise/billing/settings/billing-notes). (Right click and select settings)
 
 
 The invoice totals display in the bottom right of the invoice screen showing the subtotal of items before tax, the amount of tax and invoice discounts, if applicable, and the grand total of all sales, taxes and discounts.
