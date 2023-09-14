@@ -1,4 +1,4 @@
-# ESTIMATE
+# Estimate
 
 ![](https://wiselibrary.blob.core.windows.net/docs/Windows/Estimate.png)
 
