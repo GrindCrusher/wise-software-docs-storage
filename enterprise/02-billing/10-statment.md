@@ -15,11 +15,11 @@ After you have made all of your choices, click on the email icon or the print ic
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_35.abcdbeaa.png)
 
 # History
-If you need to print or export customer history expand your billing periord to an early start from then click print. 
+If you need to print or export customer history expand your billing periord to an earlier start time then click print. 
 
 ![](https://wiselibrary.blob.core.windows.net/docs/Windows/CustomerHistory.png)
 
-Clicking on the save icon will bring a few choices. Saving as a CSV or Excel will allow you to manipulate the data afterwards.
+Clicking on the save icon will bring a few choices. Saving as a CSV or Excel will allow you to export and manipulate the data afterwards.
 
 - Acrobat (PDF) File
 - CSV
