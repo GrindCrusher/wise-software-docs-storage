@@ -83,3 +83,9 @@ Right clicking your mouse will bring up the App Bar at the bottom of the window
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_11.9e3b874f.png)
 
 The App Bar gives access to section specific settings and features
+
+# Alerts
+
+From the dashbaord you can add alerts. There are differant types of alerts depending on if email and or SMS are enabled.  If there is no toggle button for that option then that type is not available. The available alerts are controlled by the permissions given to that account. For example Auto payment wouldn't be available if there were no permission in billing.
+
+![](https://wiselibrary.blob.core.windows.net/docs/Windows/AlertManager.png)
