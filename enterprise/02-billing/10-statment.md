@@ -1,4 +1,4 @@
-# STATEMENT
+# Statement
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_32.4ed18657.png)
 
@@ -13,3 +13,18 @@ The invoice header drop down can be set for none, description, or address. If yo
 After you have made all of your choices, click on the email icon or the print icon and you will be shown a preview of what will happen. This is a good area where you can experiment and see how you would like your billing to show.
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_35.abcdbeaa.png)
+
+# History
+If you need to print or export customer history expand your billing periord to an early start from then click print. 
+
+!{}(https://wiselibrary.blob.core.windows.net/docs/Windows/CustomerHistory.png)
+
+Clicking on the save icon will bring a few choices. Saving as a CDV or Excel will allow you to manipulate the data afterwards.
+
+- Acrobat (PDF) File
+- CSV
+- Excel
+- Rich Text Format
+- Tiff
+- Web Archive
+- XPS Document
