@@ -17,7 +17,7 @@ After you have made all of your choices, click on the email icon or the print ic
 # History
 If you need to print or export customer history expand your billing periord to an early start from then click print. 
 
-!{}(https://wiselibrary.blob.core.windows.net/docs/Windows/CustomerHistory.png)
+![](https://wiselibrary.blob.core.windows.net/docs/Windows/CustomerHistory.png)
 
 Clicking on the save icon will bring a few choices. Saving as a CDV or Excel will allow you to manipulate the data afterwards.
 
