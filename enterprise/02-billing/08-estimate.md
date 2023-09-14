@@ -14,7 +14,8 @@ Once an estimate is accepted you can create an invoice by clicking on the double
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_31.f375ab7e.png)
 
 # Billing note
-This is the note which will be displayed at the bottom of the estimate. These can be customized [here](https://docs.wisesoftwareinc.com/enterprise/billing/settings/billing-notes)
+
+Use the billing note pull down to select a billing note to display on this estimatee when output. Billing notes can be defined in the [Billing Settings](https://docs.wisesoftwareinc.com/enterprise/billing/settings/billing-notes). (Right click and select settings)
 
 # Work Order
 This option allows a work order to be created from the estimate during the approval process.
