@@ -19,7 +19,7 @@ If you need to print or export customer history expand your billing periord to a
 
 ![](https://wiselibrary.blob.core.windows.net/docs/Windows/CustomerHistory.png)
 
-Clicking on the save icon will bring a few choices. Saving as a CDV or Excel will allow you to manipulate the data afterwards.
+Clicking on the save icon will bring a few choices. Saving as a CSV or Excel will allow you to manipulate the data afterwards.
 
 - Acrobat (PDF) File
 - CSV
