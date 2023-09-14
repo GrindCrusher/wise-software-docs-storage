@@ -26,5 +26,5 @@ When emailing out estimates you can include a link to give the customer the abil
 
 ![](https://wiselibrary.blob.core.windows.net/docs/Windows/OnlineEstimate.png)
 
-Once the estimate is approved an invoice will be created. If the work order option has been selected, then a work order will be created with the attached invoice. An alert can also be set when an estimate has been approved.
+Once the estimate is approved an invoice will be created. If the work order option has been selected, then a work order will be created with the attached invoice. An [alert](https://docs.wisesoftwareinc.com/enterprise/#alerts) can also be set when an estimate has been approved.
 
