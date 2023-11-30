@@ -8,7 +8,7 @@ The work orders view will also quickly show which have been invoiced and which h
 
 # Scheduling
 
-Work order can be scheduled in a few ways. Either on the work order task itself,dispatch or when adding a new one.
+Work order can be scheduled in a few ways. Either on the work order task itself,[dispatch](https://docs.wisesoftwareinc.com/enterprise/scheduling/dispatch) or when adding a new one.
 
 
 
