@@ -22,7 +22,7 @@ Subject is the only required field needed to create a work order. By default the
 
 # Categories
 
-When working with the category the start and end time durations will be affected by the categories template. The work order category template can be set up in customer settings.
+When working with the category the start and end time durations will be affected by the categories template. The work order category template can be set up in [customer settings](https://docs.wisesoftwareinc.com/enterprise/customers/settings/work-order-categories).
 
 
 # Icons
