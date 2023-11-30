@@ -28,6 +28,11 @@ When working with the category the start and end time durations will be affected
 # Icons
 This GPS view will center around the location to be scheduled. Any activities scheduled for the date selected will be displayed. The push pins on the map will have differant colors and symbols based on who it is assigned, status, type of work and the techs location. Work order will have a crossed wrench and hammer, while service stops will have a figure with a net cleaning the water. The color of the pin indicates which employee the job is assigned. The outer bubble will indicate status and what # the job is in. The techs location will be a white push pin with a truck in it and the customer location will be a yellow pin with a house in it.
 
+# Opening
+Opening a work order will popup in a new window, this will allow displaying a work order in a seperate monitor while keeping the main window open and being able to navigate on either. The ability to open multiple work orders exist to help jumping between various work orders. Each work order can be treated as a seperate window with minimizing, maximizing, closing & moving around in the case of multiple monitors. When minimized they will be display at the bottom of the screen they are one and can be restored or closed. 
+
+![](https://wiselibrary.blob.core.windows.net/docs/Windows/WorkOrderWindowTabs.png)
+
 
 
 
