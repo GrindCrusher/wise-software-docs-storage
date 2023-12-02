@@ -6,3 +6,22 @@ The details view is where you define the the overall details of the work order. 
 
 # Categories
 [Categories](https://docs.wisesoftwareinc.com/enterprise/customers/settings/work-order-categories) define the type of work order and basic attributes. 
+
+# Statuses
+There are 6 differant statuses:
+
+ - Canceled
+
+ - Completed
+
+ - Deferred
+
+ - In Progress
+
+ - Not Started
+
+ - Overdue
+
+ - To Do
+
+
