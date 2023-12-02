@@ -5,7 +5,13 @@ The details view is where you define the the overall details of the work order. 
 ![](https://wiselibrary.blob.core.windows.net/docs/Windows/WorkOrder.png)
 
 # Categories
-[Categories](https://docs.wisesoftwareinc.com/enterprise/customers/settings/work-order-categories) define the type of work order and basic attributes. 
+Categories define the type of work order and basic attributes. They can be customized [here](https://docs.wisesoftwareinc.com/enterprise/customers/settings/work-order-categories).
+
+# Overview
+The overview section will be displayed on each of the work order tabs. It will display body of water (if one is [created](https://docs.wisesoftwareinc.com/enterprise/customers/pools)), times, status, category, priority and reported by.
+
+![](https://wiselibrary.blob.core.windows.net/docs/Windows/WorkOrderDetailSection.png)
+
 
 # Statuses
 There are 6 differant statuses:
@@ -23,5 +29,15 @@ There are 6 differant statuses:
  - Overdue
 
  - To Do
+
+# Deleting Work Order
+Clicking on the delete icon will delete the work order. Keep in mind that if there are invoices, the work order cannot be deleted until they are removed. 
+
+
+# Output
+Output will allow selecting which tasks need to printed or emailed.
+
+![](https://wiselibrary.blob.core.windows.net/docs/Windows/WorkOrderOutputOptions.png)
+
 
 
