@@ -35,9 +35,10 @@ Clicking on the delete icon will delete the work order. Keep in mind that if the
 
 
 # Output
-Output will allow selecting which tasks need to printed or emailed.
+Output will allow selecting which tasks nthat eed to printed.
 
 ![](https://wiselibrary.blob.core.windows.net/docs/Windows/WorkOrderOutputOptions.png)
+
 
 
 
