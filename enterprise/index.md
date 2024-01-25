@@ -8,7 +8,7 @@ Here is a quick start to getting to the most common tasks.
 
 # Basics
 
-When first logging in the you will be greeted with the Activities Dashboard.
+When first logging in you will be greeted with the Activities Dashboard.
 
 This dashboard gives you quick access to your specific jobs for the day including Service Stop, Work Orders, Reminders and Tasks.
 
