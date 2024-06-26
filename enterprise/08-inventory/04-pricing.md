@@ -1,8 +1,19 @@
 # PRICING
 
-The pricing tab is where we can define how much we sell this item for.
+Pricing markup can be updated from the inventory dashboard or from the pricing tab.
 
-![](https://cdn.realsgii2.dev/wise-software-docs/image_26.9a7d6e38.png)
+![](https://wiselibrary.blob.core.windows.net/docs/Windows/InventoryDashboard.png)
+
+Clicking on the price quick action button will bring up the markup screen.
+
+![](https://wiselibrary.blob.core.windows.net/docs/Windows/InventoryMarkup.png)
+
+
+The price consists of:
+ - Name (used to identity in dropdowns throught the software)
+ - Current Vendor Price
+ - Markup
+ - Sell Price
 
 In the Price Levels grid, define as many price levels as needed by entering a Name for the price level and the price. These names can be as generic or specific as you wish and will display as a selection when creating an invoice.
 
