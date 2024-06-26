@@ -33,3 +33,15 @@ The Quantity Discounts grid allows you to define discounts given when customers 
 
 ![](https://wiselibrary.blob.core.windows.net/docs/Windows/QuantityDiscounts.png)
 
+# Bulk Pricing
+
+Bulk pricing can be accessed in the App Bar in the Inventory Module
+
+![](https://wiselibrary.blob.core.windows.net/docs/Windows/InventoryAppBar_pricing.png)
+
+Bulk pricing will allow setting a markup on any or all inventory categories. It will use the default [vendor cost](https://docs.wisesoftwareinc.com/enterprise/inventory/vendors) to calculate the new price, if the item does not have a cost it will not update the price.
+
+![](https://wiselibrary.blob.core.windows.net/docs/Windows/BulkPricing.png)
+
+
+
