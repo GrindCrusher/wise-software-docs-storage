@@ -30,12 +30,12 @@ When working with a loss, any previous purchases that still have a quantity abov
   
 - Cost
 
-  When working with a cost adjustment, any previous purchases will be displayed. 
+  When working with a cost adjustment, any previous purchases will be displayed. The cost can be edit for 1 more of the purchases.
   
  ![](https://wiselibrary.blob.core.windows.net/docs/Windows/IndividualAdjustment_Cost.png)
   
 - Move
-
+ Edit the amount you want to move, select the "From Location", keep in mid the maxium will only what the "From Location" has on hand. Then select the "To Location" where the new quantity will end up.
  ![](https://wiselibrary.blob.core.windows.net/docs/Windows/IndividualAdjustment_Move.png)
 
 # Bulk
