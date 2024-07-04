@@ -10,7 +10,7 @@ For stock items that need an increase or decrease of count or cost there are 2 w
 There are 4 types of adjustments that can be done on the currently selected item:
 - Add
 
-  The add scree is broken up into 3 sections:
+  The add screen is broken up into 3 sections:
    - Quantity
       This is where you define the amount of items to add.
      
@@ -24,10 +24,13 @@ There are 4 types of adjustments that can be done on the currently selected item
  ![](https://wiselibrary.blob.core.windows.net/docs/Windows/IndividualAdjustment_add.png)
  
 - Loss
+When working with a loss, any previous purchases that still have a quantity above zero will be displayed. The maxium amount that can be set is defined to the right of the quntity field.
   
  ![](https://wiselibrary.blob.core.windows.net/docs/Windows/IndividualAdjustment_loss.png)
   
 - Cost
+
+  When working with a cost adjustment, any previous purchases will be displayed. 
   
  ![](https://wiselibrary.blob.core.windows.net/docs/Windows/IndividualAdjustment_Cost.png)
   
