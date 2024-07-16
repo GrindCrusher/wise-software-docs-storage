@@ -6,10 +6,10 @@ Adjust count or cost of in stock inventory items individually or in bulk.
 
 
 ## Individual
-Adjust the count, location or cost of the currently selected item.
+Adjust the count, location or cost of the currently selected inventory item.
 
 ### Add
-Add a quantity of the currently selected item to stock.
+Add a quantity of the currently selected inventory item to stock.
 
 The Add Adjustment screen is broken up into 3 sections:
 - **Quantity** - The count of items to be added.
@@ -20,22 +20,31 @@ The Add Adjustment screen is broken up into 3 sections:
  ![](https://wiselibrary.blob.core.windows.net/docs/Windows/IndividualAdjustment_add.png)
  
 ### Loss
-Deduct a quantity of the currently selected item to stock.
+Deduct a quantity of the currently selected inventory item from stock.
 
 The Loss Adjustment screen displays the quantities of the inventory item currently on hand at each location.
 - **Quantity** - Define the count that has been lost for this item at the displayed location. Note the maximum amount that can be set is defined by the on hand amount at that location.
   
- ![](https://wiselibrary.blob.core.windows.net/docs/Windows/IndividualAdjustment_loss.png)
+  ![](https://wiselibrary.blob.core.windows.net/docs/Windows/IndividualAdjustment_loss.png)
 
 ### Cost
+Adjust the recorded cost for the currently selected inventory item.
 
-  When working with a cost adjustment, any previous purchases will be displayed. The cost can be edited for 1 more of the purchases.
+The Cost Adjustment screen displays the recorded cost(s) for the currently selected inventory item is displayed.
+
+- **Cost** - Adjust the recorded cost of the item(s).
   
  ![](https://wiselibrary.blob.core.windows.net/docs/Windows/IndividualAdjustment_Cost.png)
   
 ### Move
+Move a defined count of items from one inventory location to another.
+
+The Move Adjustment screen is broken up into 3 sections:
+
+- **Quantity** - The amount of the item to move. Note the maximum amount that can be set is defined by the on hand amount at the selected From Location.
+- **From Location** - The Inventory Location to deduct the quantity from.
+- **To Location** - The Inventory Location to add the quantity to.
   
- Edit the amount you want to move. Select the "From Location", keep in mind the maximum will only show what the "From Location" has on hand. Then select the "To Location" where the new quantity will end up.
  ![](https://wiselibrary.blob.core.windows.net/docs/Windows/IndividualAdjustment_Move.png)
 
 ## Bulk
@@ -44,20 +53,27 @@ Add to the count or move multiple in stock inventory items.
 
 ### Add
 
-  When doing an add you can choose which location the item is going to. Locations are defined in [sites](https://docs.wisesoftwareinc.com/enterprise/inventory/settings/sites)
-  
+Add to the count of multiple in stock inventory items.
+
+- **Location** - Define the [Inventory Location](https://docs.wisesoftwareinc.com/enterprise/inventory/settings/sites) you are adding items to.
+- **Reference** - Optional reference information about this addition.
+- **Inventory Items** - Define the quantity and cost of each inventory item to be added. The calculated value of the items are displayed in the Amnt. field.
+
  ![](https://wiselibrary.blob.core.windows.net/docs/Windows/BulkAdjustment_Add.png)
 
-Clicking on add new item will bring up inventory search. The search will only search products that have a Vendor Number associated with them. Vendor numbers are the unique number defined by the distributor you purchase the product from. To set one up you can go [here](https://docs.wisesoftwareinc.com/enterprise/inventory/vendors).
+Clicking on "Click here to add new item" will bring up inventory search allowing you to search for and select inventory items you wish to add stock to. Note you will only be able to add to Stock Items.
 
  ![](https://wiselibrary.blob.core.windows.net/docs/Windows/BulkAdjustment_Search.png)
 
-Once the product is selected, quantity and cost can be adjusted. The amount will be calculated based on the previous 2 values.
- 
-
 ### Move
+
+Move a defined count of multiple items from one inventory location to another.
+
+- **From Location** - Define the [Inventory Location](https://docs.wisesoftwareinc.com/enterprise/inventory/settings/sites) you are moving items from.
+- **To Location** - Define the [Inventory Location](https://docs.wisesoftwareinc.com/enterprise/inventory/settings/sites) you are moving items to.
+- **Reference** - Optional reference information about this move.
   
-  Searching and selecting an item is exactly the same as when doing an add. The difference here is there is a "from" location, a "to" location and only the quantity can be changed on the product itself.
+Clicking on "Click here to add new item" will bring up inventory search allowing you to search for and select inventory items you wish to move. Note you will only be able to select items that have stock at the From Location.
 
  ![](https://wiselibrary.blob.core.windows.net/docs/Windows/BulkAdjustment_Move.png)
   
