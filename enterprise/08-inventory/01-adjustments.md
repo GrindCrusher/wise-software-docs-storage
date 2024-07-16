@@ -1,6 +1,6 @@
 # Adjustments
 
-For stock items that need an increase or decrease of count or cost there are 2 ways of doing this: individually or in bulk.
+Adjust count or cost of in stock inventory items individually or in bulk.
 
 
 
