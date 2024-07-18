@@ -13,7 +13,7 @@ The price consists of:
  - Name (Used to identify in dropdowns throughout the software)
  - Current Vendor Price (This can be set on the [Vendors tab](https://docs.wisesoftwareinc.com/enterprise/inventory/vendors))
  - Markup (Is a percentage that can be set if there is a current vendor price selected)
- - Sell Price (Can be manually set up or calculated based on current vendor price and markup precentage)
+ - Sell Price (Can be manually set up or calculated based on current vendor price and markup percentage)
    
 
 # Price Levels
@@ -22,7 +22,7 @@ In the Price Levels grid, define as many price levels as needed by clicking the 
 
 ![](https://wiselibrary.blob.core.windows.net/docs/Windows/InventoryPricing.png)
 
-After creating your price levels, select the Default Price in the top selection box to indicate the price this item should default to when added to an invoice. (note that the first price level created will be the default.
+After creating your price levels, select the Default Price in the top selection box to indicate the price this item should default to when added to an invoice. (note that the first price level created will be the default.)
 
 ![](https://wiselibrary.blob.core.windows.net/docs/Windows/DefaultPriceLevel.png)
 
