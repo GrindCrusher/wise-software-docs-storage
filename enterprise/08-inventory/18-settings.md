@@ -52,9 +52,7 @@ To delete a specific category, simply click on the trash can icon to the right o
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_12.4d78c866.png)
 
-# Note
-
-that you will not be able to delete a category if it is assigned to an inventory item. To edit a category, click into the category name and make any changes necessary.
+Note that you will not be able to delete a category if it is assigned to an inventory item. To edit a category, click into the category name and make any changes necessary.
 
 **Seasons**
 
