@@ -5,6 +5,9 @@ Here is where you can see what day and time a technician is scheduled for. These
 
 ![](https://wiselibrary.blob.core.windows.net/docs/Windows/Dispatch.png)
 
+Double clicking an appointment will bring up the work order to edit the details.
+
+![](https://wiselibrary.blob.core.windows.net/docs/Windows/DispatchWorkOrder.png)
 
 
 # Unscheduled
