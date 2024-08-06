@@ -5,7 +5,7 @@ Here is where you can see the list of service stops that have been completed. Th
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_4.459a2dbc.png)
 
 
-Clicking on a stop will bring up that service sheet.
+Clicking on a stop will bring up that [service sheet](https://docs.wisesoftwareinc.com/enterprise/customers/settings/activity).
 
 ![](https://wiselibrary.blob.core.windows.net/docs/Windows/SheetActivity.png)
 
