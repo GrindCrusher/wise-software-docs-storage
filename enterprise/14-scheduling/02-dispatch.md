@@ -26,5 +26,5 @@ Clicking an employee will bring up that individuals calendar (note only 1 employ
 
 # Notifications
 
-If the tech has [alerts](https://docs.wisesoftwareinc.com/enterprise/Alerts) turned on they will be notified when tasks are assigned / unnassigned.
+If the tech has [alerts](https://docs.wisesoftwareinc.com/enterprise#alerts) turned on they will be notified when tasks are assigned / unnassigned.
 
