@@ -23,6 +23,8 @@ The color of the bubble on the outside indicates the status of the job, they use
 - To Do
 - Deferred
 
+  The number indicates which order the route is in for that tech.
+
 # Filtering
 
 Stops and work orders can be filter per tech by checking or unchecking the radio buttons on the tech list.
