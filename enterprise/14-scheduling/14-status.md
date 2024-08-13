@@ -1,6 +1,6 @@
 # Status
 
-The status view is an optional add-on with the Wise Software GPS services. It can be accessed from the App bar by right clicking or clicking the bottom of the screen. It provides realtime updates on all route stops, work orders and tech locations. 
+The status view is an optional add-on with the Wise Software GPS services that can be accessed from the [App bar](https://docs.wisesoftwareinc.com/enterprise#App-Bar). It provides realtime updates on all route stops, work orders and tech locations. 
 
 ![](https://wiselibrary.blob.core.windows.net/docs/Windows/StatusView.png)
 
