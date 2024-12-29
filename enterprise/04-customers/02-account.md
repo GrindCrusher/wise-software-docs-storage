@@ -39,6 +39,7 @@ Click the Status drop-down if you need to change the customer’s status. An ina
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_17.8de1c5cb.png)
 
+# Late Fee
 Late fees can be turned on per customer in Enterprise. If this customer is to receive an additional fee when an invoice is past due, check the Late Fee check box. See our video on Billing Settings for how to define your late fees.
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_18.922ef985.png)
