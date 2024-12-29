@@ -12,9 +12,43 @@ A unique SKU will generate for the item but can be modified as needed. Note that
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_12.26668737.png)
 
-# Type
+# Types
 
-Select the Inventory Type from the Type pull down. This selection defines how the program tracks this item and its purpose in the inventory. A Stock Item will have its quantities on hand tracked. Increasing and decreasing automatically when actions such as receiving purchase orders or selling the item on an invoice are performed. A nonstock item does not track quantities on hand but is still considered a physical item that is sold. A Service item defines an item that is used for recurring billing purposes such as Service Charges, Cleanings, and regular maintenance. A Description type is used for easily adding notes along with items to invoices including those created by automatic recurring. Kits and Assemblies are special types of inventory items.
+Inventory Type defines how the program tracks and uses this item and its purpose in the inventory.  
+
+**Stock Item**
+
+A Stock Item will have its quantities on hand tracked. Increasing and decreasing automatically when actions such as receiving purchase orders or selling the item on an invoice are performed.
+
+**Non-Stock**
+
+A nonstock item does not track quantities on hand but is still considered a physical item that is sold.
+
+**Service**
+
+A Service item defines an item that is used for recurring billing purposes such as Service Charges, Cleanings, and regular maintenance.
+
+**Labor**
+
+**Description**
+
+ A Description type is used for easily adding notes along with items to invoices including those created by automatic recurring.
+ 
+**Kit**
+
+  A kit is a group of inventory items that are sold together, when added to an invoice will display all the individual items prices.
+  
+**Assembly**
+
+  An assembly is a stock item that is comprised of multipe stock items and requires the quantities defined to be on-hand to make or build the assembly. When added to an invoice it will display the price of the assembly and the individual items it is comprised of.
+
+**Discount**
+
+No longer used
+
+**Service Fee**
+
+No longer used
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_13.858d2ce4.png)
 
