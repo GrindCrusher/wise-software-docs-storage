@@ -42,13 +42,7 @@ A Service item defines an item that is used for recurring billing purposes such 
 
   An assembly is a stock item that is comprised of multipe stock items and requires the quantities defined to be on-hand to make or build the assembly. When added to an invoice it will display the price of the assembly and the individual items it is comprised of.
 
-**Discount**
 
-No longer used
-
-**Service Fee**
-
-No longer used
 
 ![](https://cdn.realsgii2.dev/wise-software-docs/image_13.858d2ce4.png)
 
